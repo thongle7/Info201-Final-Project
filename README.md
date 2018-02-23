@@ -4,6 +4,8 @@ Our project focus on presenting the data of mass shooting in United States. Thro
 
 ## Website
 
+http://www.shootingtracker.com/ 
+
 ## Disclaimer
 The information and data provided is meant for our school project. We do not own any of the data that we are using. 
 
