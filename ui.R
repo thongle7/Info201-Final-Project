@@ -55,6 +55,8 @@ my.ui <- fluidPage(fluidPage(navbarPage(
              ),
              mainPanel()
              
-           ))
+           )),
+  tabPanel("About",
+           includeMarkdown("README.md"))
 )))
 shinyUI(my.ui)
