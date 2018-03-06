@@ -21,11 +21,6 @@ library(ggmap)
 locs <- c('Seattle WA')
 geocode(locs)
 
-x <- function(x){
-  points <- geocode(x)
-  lapply(, function)
-}
-
 
 a <- lapply(data$Address, geocode)
 
