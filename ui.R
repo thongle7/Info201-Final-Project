@@ -29,7 +29,7 @@ my.ui <- fluidPage(fluidPage(navbarPage(
              mainPanel(leafletOutput(outputId = "map", height = 800))
              
            )),
-  tabPanel("Historgrams",
+  tabPanel("Histograms",
            sidebarLayout(
              sidebarPanel(
                selectInput(

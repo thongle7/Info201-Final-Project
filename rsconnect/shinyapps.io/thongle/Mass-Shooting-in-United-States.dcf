@@ -5,8 +5,8 @@ account: thongle
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 295298
-bundleId: 1257710
+bundleId: 1257720
 url: https://thongle.shinyapps.io/Mass-Shooting-in-United-States/
-when: 1520457498.53806
+when: 1520457859.25404
 asMultiple: FALSE
 asStatic: FALSE
