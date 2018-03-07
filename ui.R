@@ -61,20 +61,20 @@ my.ui <- fluidPage(fluidPage(navbarPage(
            sidebarLayout(
              sidebarPanel(
                selectInput(
-                 "year",
+                 "year3",
                  "Select year:",
                  c("All", "2013", "2014", "2015", "2016", "2017")
                ),
                
                sliderInput(
-                 "Dead",
+                 "Dead3",
                  "Dead Amount",
                  min = 0,
                  max = 100,
                  value = c(0, 100)
                ),
                sliderInput(
-                 "Injured",
+                 "Injured3",
                  "Injured Amount",
                  min = 0,
                  max = 442,
@@ -82,9 +82,43 @@ my.ui <- fluidPage(fluidPage(navbarPage(
                )
                
              ),
-             mainPanel()
+             mainPanel(
+               plotOutput("histogram"),
+               plotOutput("histogram2")
+               )
              
            )),
+  tabPanel("Frequency",
+           fluidRow(
+             column(3,
+               selectInput(
+                 "year4",
+                 "Select year:",
+                 c("All", "2013", "2014", "2015", "2016", "2017")
+               )),
+              column(4,
+               sliderInput(
+                 "Dead4",
+                 "Dead Amount",
+                 min = 0,
+                 max = 100,
+                 value = c(0, 100)
+               )),
+             column(5,
+               sliderInput(
+                 "Injured4",
+                 "Injured Amount",
+                 min = 0,
+                 max = 442,
+                 value = c(0, 442)
+               ))
+               
+             ),
+            
+            plotOutput("histogram3")
+             
+             
+           ),
   tabPanel("About",
            includeMarkdown("README.md"))
 )))
