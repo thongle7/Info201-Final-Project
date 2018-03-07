@@ -1,271 +1,271 @@
-"","Incident.Date","State","City.Or.County","Address","X..Killed","X..Injured","Operations","fullad","long","lat"
-"1","December 29, 2014","Louisiana","New Orleans","Poydras and Bolivar",0,4,"N/A","Poydras and Bolivar ,  New Orleans ,  Louisiana","-90.0839102","29.9542981"
-"2","December 27, 2014","California","Los Angeles","8800 block of South Figueroa Street",1,3,"N/A","8800 block of South Figueroa Street ,  Los Angeles ,  California","-118.2827122","33.9573722"
-"3","December 27, 2014","California","Sacramento","4000 block of May Street",0,4,"N/A","4000 block of May Street ,  Sacramento ,  California","-121.4430593","38.6404317"
-"4","December 26, 2014","Illinois","East St. Louis","2500 block of Summit Avenue",1,3,"N/A","2500 block of Summit Avenue ,  East St. Louis ,  Illinois","-90.1254163","38.6196182"
-"5","December 24, 2014","Missouri","Saint Louis","18th and Pine",1,3,"N/A","18th and Pine ,  Saint Louis ,  Missouri","-90.2059421","38.630663"
-"6","December 23, 2014","Kentucky","Winchester","260 Oxford Drive",1,3,"N/A","260 Oxford Drive ,  Winchester ,  Kentucky","-84.2089874","38.0030814"
-"7","December 22, 2014","Michigan","Detroit","Charlevoix and Philip",1,3,"N/A","Charlevoix and Philip ,  Detroit ,  Michigan","-82.9486464","42.38358"
-"8","December 22, 2014","New York","Webster","191 Lake Road",4,2,"N/A","191 Lake Road ,  Webster ,  New York","-77.5255331","43.236828"
-"9","December 22, 2014","Illinois","Chicago","5700 block of South Green Street",0,5,"N/A","5700 block of South Green Street ,  Chicago ,  Illinois","-87.646624","41.790482"
-"10","December 21, 2014","Florida","Sarasota","4034 N Washington Blvd",2,2,"N/A","4034 N Washington Blvd ,  Sarasota ,  Florida","-82.5299717","27.3688478"
-"11","December 21, 2014","Mississippi","Waynesboro","Central Avenue",1,4,"N/A","Central Avenue ,  Waynesboro ,  Mississippi","-88.6580584","31.6784364"
-"12","December 21, 2014","Illinois","Calumet City","600 block of Escanba",1,8,"N/A","600 block of Escanba ,  Calumet City ,  Illinois","-87.5528405","41.6180814"
-"13","December 20, 2014","Illinois","Rockford","3200 block of Montrose Avenue",4,0,"N/A","3200 block of Montrose Avenue ,  Rockford ,  Illinois","-89.1071791","42.2938571"
-"14","December 16, 2014","New Jersey","Elizabeth","Anna Street",0,4,"N/A","Anna Street ,  Elizabeth ,  New Jersey","-74.2043131","40.6688088"
-"15","December 15, 2014","Pennsylvania","Lansdale","100 block of West 5th St",7,0,"N/A","100 block of West 5th St ,  Lansdale ,  Pennsylvania","NA","NA"
-"16","December 14, 2014","Florida","Miami","1311 Northwest 2nd Avenue",1,4,"N/A","1311 Northwest 2nd Avenue ,  Miami ,  Florida","-80.1984688","25.7871407"
-"17","December 13, 2014","Florida","Tampa","810 E. Skagway Ave.",0,5,"N/A","810 E. Skagway Ave. ,  Tampa ,  Florida","-82.4524689","28.0324123"
-"18","December 12, 2014","Oregon","Portland","717 North Killingsworth Court",0,4,"N/A","717 North Killingsworth Court ,  Portland ,  Oregon","-122.6743133","45.5620669"
-"19","December 7, 2014","Indiana","South Bend","16000 block of Roosevelt Road",0,4,"N/A","16000 block of Roosevelt Road ,  South Bend ,  Indiana","NA","NA"
-"20","December 2, 2014","Missouri","Saint Louis","6000 block of Virginia Avenue",1,5,"N/A","6000 block of Virginia Avenue ,  Saint Louis ,  Missouri","-90.2492351","38.5616394"
-"21","December 2, 2014","Virginia","Newport News","6128 Jefferson Ave ",0,5,"N/A","6128 Jefferson Ave  ,  Newport News ,  Virginia","-76.4462883","37.0231409"
-"22","November 30, 2014","New York","Brooklyn","375 Remsen Avenue",0,4,"N/A","375 Remsen Avenue ,  Brooklyn ,  New York","NA","NA"
-"23","November 30, 2014","Tennessee","Chattanooga","2412 East 13th Street ",0,5,"N/A","2412 East 13th Street  ,  Chattanooga ,  Tennessee","-85.2711357","35.0246664"
-"24","November 29, 2014","New Jersey","Newark","348 S Orange Ave",1,3,"N/A","348 S Orange Ave ,  Newark ,  New Jersey","-74.1999812","40.7399153"
-"25","November 29, 2014","Georgia","Atlanta","1600 block of Richmond Avenue",3,2,"N/A","1600 block of Richmond Avenue ,  Atlanta ,  Georgia","-84.3798407","33.7100019"
-"26","November 28, 2014","Tennessee","Memphis","1849 East Brooks Road ",0,4,"N/A","1849 East Brooks Road  ,  Memphis ,  Tennessee","-90.0021493","35.0604534"
-"27","November 27, 2014","Texas","Georgetown","Pvt Rd 934",2,3,"N/A","Pvt Rd 934 ,  Georgetown ,  Texas","-97.592544","30.6777088"
-"28","November 26, 2014","California","San Francisco","Mission and 13th streets",0,6,"N/A","Mission and 13th streets ,  San Francisco ,  California","-122.4201876","37.7699578"
-"29","November 23, 2014","Colorado","Denver","Federal Boulevard and 16th Avenue",1,4,"N/A","Federal Boulevard and 16th Avenue ,  Denver ,  Colorado","NA","NA"
-"30","November 23, 2014","Virginia","Accomack County","Parksley Road",0,4,"N/A","Parksley Road ,  Accomack County ,  Virginia","-75.636071","37.768317"
-"31","November 22, 2014","Ohio","Cleveland","1443 E 92nd St",4,1,"N/A","1443 E 92nd St ,  Cleveland ,  Ohio","-81.6231379","41.51689"
-"32","November 22, 2014","South Dakota","Sisseton","Fourth Avenue",4,1,"N/A","Fourth Avenue ,  Sisseton ,  South Dakota","NA","NA"
-"33","November 22, 2014","Ohio","Springfield","Clifton Avenue and Rice Street",1,3,"N/A","Clifton Avenue and Rice Street ,  Springfield ,  Ohio","NA","NA"
-"34","November 21, 2014","Pennsylvania","Pittsburgh","600 block of Miller Avenue",0,6,"N/A","600 block of Miller Avenue ,  Pittsburgh ,  Pennsylvania","NA","NA"
-"35","November 19, 2014","Illinois","Chicago","700 block of North St. Louis Avenue",1,3,"N/A","700 block of North St. Louis Avenue ,  Chicago ,  Illinois","-87.7138038","41.8936456"
-"36","November 18, 2014","Nevada","North Las Vegas","Englestad Street",0,4,"N/A","Englestad Street ,  North Las Vegas ,  Nevada","NA","NA"
-"37","November 16, 2014","Ohio","Akron","1891 East Market Street",1,4,"N/A","1891 East Market Street ,  Akron ,  Ohio","-81.4601481","41.0619729"
-"38","November 16, 2014","Texas","El Paso","115 S. Durango",0,6,"N/A","115 S. Durango ,  El Paso ,  Texas","NA","NA"
-"39","November 15, 2014","Missouri","Springfield","2555 N. Glenstone",4,0,"N/A","2555 N. Glenstone ,  Springfield ,  Missouri","NA","NA"
-"40","November 15, 2014","Florida","Miami","NW 55th and 12th",1,3,"N/A","NW 55th and 12th ,  Miami ,  Florida","-80.2172875","25.8254516"
-"41","November 8, 2014","California","Pomona","499 E. Arrow Highway",0,5,"N/A","499 E. Arrow Highway ,  Pomona ,  California","-117.7427867","34.0901614"
-"42","November 7, 2014","California","Compton","136th Street ",0,4,"N/A","136th Street  ,  Compton ,  California","-118.2466961","33.9081057"
-"43","November 7, 2014","California","Los Angeles","East 126th Street and North Compton Avenue",0,4,"N/A","East 126th Street and North Compton Avenue ,  Los Angeles ,  California","-118.2462168","33.9184737"
-"44","November 5, 2014","California","San Francisco","1100 block of Alabama Street ",0,4,"N/A","1100 block of Alabama Street  ,  San Francisco ,  California","NA","NA"
-"45","October 29, 2014","Tennessee","Memphis","Yale Road and Ramill Road",0,5,"N/A","Yale Road and Ramill Road ,  Memphis ,  Tennessee","NA","NA"
-"46","October 26, 2014","Kentucky","Cadiz","1410 Old Dover Road",4,0,"N/A","1410 Old Dover Road ,  Cadiz ,  Kentucky","NA","NA"
-"47","October 24, 2014","California","Sacramento","2030 Arden Way",2,3,"N/A","2030 Arden Way ,  Sacramento ,  California","-121.4182069","38.5957421"
-"48","October 24, 2014","Washington","Marysville","5611 108th St NE",5,1,"N/A","5611 108th St NE ,  Marysville ,  Washington","NA","NA"
-"49","October 18, 2014","New York","Queens","33-02 Queens Blvd",0,4,"N/A","33-02 Queens Blvd ,  Queens ,  New York","NA","NA"
-"50","October 18, 2014","South Carolina","Graniteville","192 Breezy Hill Road",1,3,"N/A","192 Breezy Hill Road ,  Graniteville ,  South Carolina","-81.8431128","33.5663263"
-"51","October 18, 2014","New York","Brooklyn","Lenox Road",0,4,"N/A","Lenox Road ,  Brooklyn ,  New York","-73.9379985","40.6548805"
-"52","October 16, 2014","Michigan","Detroit","Mogul Street",1,3,"N/A","Mogul Street ,  Detroit ,  Michigan","-82.9621522","42.4167375"
-"53","October 14, 2014","Georgia","Peachtree Corners","6505 Bannor Lane",3,2,"N/A","6505 Bannor Lane ,  Peachtree Corners ,  Georgia","-84.2512157","33.9504971"
-"54","October 13, 2014","Georgia","Atlanta","85 Mount Zion Road",0,4,"N/A","85 Mount Zion Road ,  Atlanta ,  Georgia","-84.3905948","33.6732435"
-"55","October 12, 2014","Georgia","Atlanta","Arthur Langford Jr Place",1,3,"N/A","Arthur Langford Jr Place ,  Atlanta ,  Georgia","-84.3977631","33.7120678"
-"56","October 12, 2014","California","Stockton","1100 block of East March Lane",3,1,"N/A","1100 block of East March Lane ,  Stockton ,  California","-121.2920369","38.0018397"
-"57","October 11, 2014","New York","Utica","222 Bleecker Street",0,5,"N/A","222 Bleecker Street ,  Utica ,  New York","-75.228421","43.1012497"
-"58","October 8, 2014","Georgia","Atlanta","Auburn Avenue and Edgewood Avenue",0,4,"N/A","Auburn Avenue and Edgewood Avenue ,  Atlanta ,  Georgia","-84.3798768","33.7540928"
-"59","October 8, 2014","New York","Guilderland","1846 Western Ave",4,0,"N/A","1846 Western Ave ,  Guilderland ,  New York","-73.8711525","42.6914409"
-"60","October 5, 2014","Florida","Jacksonville","7300 block of Linda Drive",3,1,"N/A","7300 block of Linda Drive ,  Jacksonville ,  Florida","NA","NA"
-"61","October 5, 2014","Michigan","Detroit","East 7 Mile Road and Sherwood Street",1,5,"N/A","East 7 Mile Road and Sherwood Street ,  Detroit ,  Michigan","-83.0340459","42.433768"
-"62","October 4, 2014","Tennessee","Memphis","1400 block of Gherald Street",2,2,"N/A","1400 block of Gherald Street ,  Memphis ,  Tennessee","-89.9210617","35.1698459"
-"63","October 4, 2014","California","Pomona","1925 West Holt Avenue ",0,4,"N/A","1925 West Holt Avenue  ,  Pomona ,  California","NA","NA"
-"64","September 29, 2014","South Carolina","Walterboro","29 Sandy Dam Lane",1,7,"N/A","29 Sandy Dam Lane ,  Walterboro ,  South Carolina","-80.620366","32.885248"
-"65","September 29, 2014","California","Fresno","2300 block of West Fountain Way ",0,4,"N/A","2300 block of West Fountain Way  ,  Fresno ,  California","NA","NA"
-"66","September 28, 2014","Pennsylvania","Philadelphia","2800 block of Hope Street",0,4,"N/A","2800 block of Hope Street ,  Philadelphia ,  Pennsylvania","-75.1312117","39.9926538"
-"67","September 28, 2014","Florida","Miami","NW 7th Ave and NW 64th Street",0,15,"N/A","NW 7th Ave and NW 64th Street ,  Miami ,  Florida","-80.2085914","25.8341404"
-"68","September 27, 2014","Missouri","Saint Louis","2000 block East John Avenue",0,5,"N/A","2000 block East John Avenue ,  Saint Louis ,  Missouri","-90.209797","38.6716819"
-"69","September 26, 2014","South Carolina","Darlington County","600 block of Turner Road",1,4,"N/A","600 block of Turner Road ,  Darlington County ,  South Carolina","-79.7670811","34.2592117"
-"70","September 21, 2014","Ohio","East Liverpool","440 First St",0,4,"N/A","440 First St ,  East Liverpool ,  Ohio","-80.5529381","40.6308582"
-"71","September 20, 2014","Mississippi","Panola County","N/A",2,2,"N/A","N/A ,  Panola County ,  Mississippi","NA","NA"
-"72","September 19, 2014","New York","Queens","32-14 106th St",0,4,"N/A","32-14 106th St ,  Queens ,  New York","-73.863359","40.75929"
-"73","September 18, 2014","Florida","Bell","NW 30th Street and NW 39th Terrace",8,0,"N/A","NW 30th Street and NW 39th Terrace ,  Bell ,  Florida","NA","NA"
-"74","September 15, 2014","Louisiana","New Orleans","Chef Menteur Highway and Dale Street",0,5,"N/A","Chef Menteur Highway and Dale Street ,  New Orleans ,  Louisiana","NA","NA"
-"75","September 14, 2014","Texas","Flour Bluff","229 Naval Air Station Drive",3,1,"N/A","229 Naval Air Station Drive ,  Flour Bluff ,  Texas","-97.2762385","27.6783188"
-"76","September 14, 2014","Alaska","Anchorage","225 E Fifth",0,6,"N/A","225 E Fifth ,  Anchorage ,  Alaska","-149.8801505","61.2177897"
-"77","September 11, 2014","Michigan","Detroit","14000 block of Patton",1,7,"N/A","14000 block of Patton ,  Detroit ,  Michigan","-83.2433659","42.3728528"
-"78","September 6, 2014","Florida","Orlando","2015 Orange Blossom Trail",0,4,"N/A","2015 Orange Blossom Trail ,  Orlando ,  Florida","-81.3965152","28.5204997"
-"79","September 6, 2014","Georgia","Macon","576 Poplar Street",0,5,"N/A","576 Poplar Street ,  Macon ,  Georgia","-83.6299795","32.8347541"
-"80","September 4, 2014","Michigan","Flint","2400 block of Martin Luther King Boulevard",0,5,"N/A","2400 block of Martin Luther King Boulevard ,  Flint ,  Michigan","-83.704113","43.0384242"
-"81","September 3, 2014","California","Los Angeles","East 27th and Stanford ",0,6,"N/A","East 27th and Stanford  ,  Los Angeles ,  California","NA","NA"
-"82","September 2, 2014","California","Highland","25000 block of Fifth Street ",0,5,"N/A","25000 block of Fifth Street  ,  Highland ,  California","-117.2320131","34.108463"
-"83","September 2, 2014","Mississippi","Jackson","3622 Medgar Evers Boulevard",2,3,"N/A","3622 Medgar Evers Boulevard ,  Jackson ,  Mississippi","NA","NA"
-"84","August 31, 2014","California","Livermore","200 block of South Q Street ",0,5,"N/A","200 block of South Q Street  ,  Livermore ,  California","-121.777052","37.6783362"
-"85","August 29, 2014","Florida","Brooksville","820 Peach St",3,1,"N/A","820 Peach St ,  Brooksville ,  Florida","-82.3908868","28.5459012"
-"86","August 27, 2014","Michigan","Detroit","16600 block of Edmore",1,3,"N/A","16600 block of Edmore ,  Detroit ,  Michigan","-82.9484613","42.4475126"
-"87","August 24, 2014","Georgia","Augusta","1013 Carrie Street",1,3,"N/A","1013 Carrie Street ,  Augusta ,  Georgia","-81.9742662","33.4665546"
-"88","August 24, 2014","California","San Fernando","1400 block of Celis Street ",3,4,"N/A","1400 block of Celis Street  ,  San Fernando ,  California","-118.4461364","34.2860305"
-"89","August 24, 2014","Illinois","Chicago","8300 block of South Halsted Street",1,3,"N/A","8300 block of South Halsted Street ,  Chicago ,  Illinois","NA","NA"
-"90","August 20, 2014","Tennessee","Memphis","1400 block of Briarcrest Lane",0,5,"N/A","1400 block of Briarcrest Lane ,  Memphis ,  Tennessee","NA","NA"
-"91","August 18, 2014","Louisiana","Saint Martinville","Main and Hyacinth streets",0,4,"N/A","Main and Hyacinth streets ,  Saint Martinville ,  Louisiana","NA","NA"
-"92","August 17, 2014","Massachusetts","Boston","Edinboro Street",0,4,"N/A","Edinboro Street ,  Boston ,  Massachusetts","-71.0597534","42.3521491"
-"93","August 17, 2014","California","East Palo Alto","Purdue Street and Georgetown Avenue",1,3,"N/A","Purdue Street and Georgetown Avenue ,  East Palo Alto ,  California","-122.1377406","37.4789729"
-"94","August 17, 2014","Nevada","Las Vegas","Owens Avenue and H Street",0,4,"N/A","Owens Avenue and H Street ,  Las Vegas ,  Nevada","NA","NA"
-"95","August 17, 2014","New York","Queens","153-38 118th Ave",0,4,"N/A","153-38 118th Ave ,  Queens ,  New York","-73.7884812","40.6808923"
-"96","August 16, 2014","New Jersey","Plainfield","West 3rd Street and Monroe Avenue",1,3,"N/A","West 3rd Street and Monroe Avenue ,  Plainfield ,  New Jersey","NA","NA"
-"97","August 16, 2014","Utah","Salt Lake City","122 Pierpont Avenue",0,6,"N/A","122 Pierpont Avenue ,  Salt Lake City ,  Utah","-111.8949323","40.7640947"
-"98","August 14, 2014","Tennessee","Memphis","797 Pope Street",1,3,"N/A","797 Pope Street ,  Memphis ,  Tennessee","-89.956144","35.154015"
-"99","August 13, 2014","Tennessee","Clarksville","Treeland Drive",0,4,"N/A","Treeland Drive ,  Clarksville ,  Tennessee","-87.3100759","36.58957"
-"100","August 13, 2014","Louisiana","New Orleans","New Orleans and North Rocheblave streets",0,4,"N/A","New Orleans and North Rocheblave streets ,  New Orleans ,  Louisiana","-90.0660797","29.9812248"
-"101","August 12, 2014","New York","Buffalo","Oakmont Avenue",1,3,"N/A","Oakmont Avenue ,  Buffalo ,  New York","NA","NA"
-"102","August 12, 2014","Georgia","Bartow County","Brent Circle",2,3,"N/A","Brent Circle ,  Bartow County ,  Georgia","-84.8861039","34.1744098"
-"103","August 10, 2014","Louisiana","New Orleans","5400 block of Burgundy St",2,5,"N/A","5400 block of Burgundy St ,  New Orleans ,  Louisiana","-90.019197","29.959362"
-"104","August 10, 2014","California","Moreno Valley","16300 block of Heather Glen Road ",0,7,"N/A","16300 block of Heather Glen Road  ,  Moreno Valley ,  California","-117.2217604","33.883616"
-"105","August 10, 2014","District of Columbia","Washington","N Street SW",0,6,"N/A","N Street SW ,  Washington ,  District of Columbia","-77.0157117","38.8746445"
-"106","August 10, 2014","Georgia","Wrightsville","N/A",0,6,"N/A","N/A ,  Wrightsville ,  Georgia","-82.719859","32.7293279"
-"107","August 9, 2014","Minnesota","Minneapolis","400 3rd Ave N",1,8,"N/A","400 3rd Ave N ,  Minneapolis ,  Minnesota","NA","NA"
-"108","August 8, 2014","Wisconsin","Milwaukee","3000 block of N. 28th Street ",0,4,"N/A","3000 block of N. 28th Street  ,  Milwaukee ,  Wisconsin","-87.9485535","43.073509"
-"109","August 8, 2014","New Mexico","Albuquerque","3426 Vassar NE",1,3,"N/A","3426 Vassar NE ,  Albuquerque ,  New Mexico","-106.614901","35.1194254"
-"110","August 8, 2014","District of Columbia","Washington","Second Street and Todd Place NE",0,4,"N/A","Second Street and Todd Place NE ,  Washington ,  District of Columbia","NA","NA"
-"111","August 6, 2014","California","Bakersfield","1700 block of Quincy Street ",3,1,"N/A","1700 block of Quincy Street  ,  Bakersfield ,  California","-118.9744486","35.3814817"
-"112","August 4, 2014","Georgia","Atlanta","1100 block of Joseph E. Boone Boulevard NW",0,5,"N/A","1100 block of Joseph E. Boone Boulevard NW ,  Atlanta ,  Georgia","NA","NA"
-"113","August 3, 2014","Texas","Humble","3403 FM 1960",0,7,"N/A","3403 FM 1960 ,  Humble ,  Texas","-95.2216679","30.0001012"
-"114","August 3, 2014","Missouri","Saint Louis","5200 block of Thekla ",0,5,"N/A","5200 block of Thekla  ,  Saint Louis ,  Missouri","-90.2433765","38.6904392"
-"115","August 3, 2014","Virginia","Culpeper","4400 block of Rixeyville Road",5,0,"N/A","4400 block of Rixeyville Road ,  Culpeper ,  Virginia","NA","NA"
-"116","August 3, 2014","Tennessee","Columbia","East 9th Street and Bridge Street",0,5,"N/A","East 9th Street and Bridge Street ,  Columbia ,  Tennessee","-87.0298075","35.611702"
-"117","August 2, 2014","Texas","Dallas","5125 Wynell Street",3,1,"N/A","5125 Wynell Street ,  Dallas ,  Texas","-96.7824651","32.6858171"
-"118","August 2, 2014","Pennsylvania","Pittsburgh","Penn Avenue and 29th Street",1,5,"N/A","Penn Avenue and 29th Street ,  Pittsburgh ,  Pennsylvania","-79.9741991","40.4578461"
-"119","August 2, 2014","Massachusetts","New Bedford","Acushnet Avenue",0,7,"N/A","Acushnet Avenue ,  New Bedford ,  Massachusetts","-70.9272028","41.6879434"
-"120","August 1, 2014","Pennsylvania","Philadelphia","1500 block of South Etting Street",1,3,"N/A","1500 block of South Etting Street ,  Philadelphia ,  Pennsylvania","-75.1901392","39.9344576"
-"121","July 30, 2014","North Carolina","Hope Mills","926 Bramblegate Road",3,2,"N/A","926 Bramblegate Road ,  Hope Mills ,  North Carolina","NA","NA"
-"122","July 28, 2014","Pennsylvania","Philadelphia","4900 block of North Front Street",1,4,"N/A","4900 block of North Front Street ,  Philadelphia ,  Pennsylvania","NA","NA"
-"123","July 27, 2014","Missouri","Saint Louis","2000 block of East John Avenue",0,5,"N/A","2000 block of East John Avenue ,  Saint Louis ,  Missouri","-90.209797","38.6716819"
-"124","July 26, 2014","Arkansas","Pine Bluff","N/A",1,3,"N/A","N/A ,  Pine Bluff ,  Arkansas","-92.0031955","34.2284312"
-"125","July 26, 2014","Georgia","Sylvester","Royal Street",0,8,"N/A","Royal Street ,  Sylvester ,  Georgia","-83.8220617","31.5309776"
-"126","July 26, 2014","Maine","Saco","35 Water Street",5,0,"N/A","35 Water Street ,  Saco ,  Maine","-70.4487735","43.4979561"
-"127","July 25, 2014","Illinois","Chicago","700 South California Avenue",1,6,"N/A","700 South California Avenue ,  Chicago ,  Illinois","-87.6962999","41.872696"
-"128","July 23, 2014","Pennsylvania","Braddock","700 block of Hickory St",0,4,"N/A","700 block of Hickory St ,  Braddock ,  Pennsylvania","-79.8612975","40.4057612"
-"129","July 21, 2014","New Jersey","Irvington","36 Welland Avenue",0,6,"N/A","36 Welland Avenue ,  Irvington ,  New Jersey","-74.228937","40.7171492"
-"130","July 21, 2014","Tennessee","Memphis","300 block of Foote Park Lane",0,4,"N/A","300 block of Foote Park Lane ,  Memphis ,  Tennessee","-90.0452121","35.1328562"
-"131","July 20, 2014","Illinois","East Saint Louis","5103 block of Bunkum Rd",1,3,"N/A","5103 block of Bunkum Rd ,  East Saint Louis ,  Illinois","-90.0957623","38.6233748"
-"132","July 20, 2014","Nevada","Las Vegas","Rancho Drive 3400 block ",1,3,"N/A","Rancho Drive 3400 block  ,  Las Vegas ,  Nevada","-115.2150062","36.2204356"
-"133","July 19, 2014","Illinois","Chicago","1300 North Mason Avenue",0,4,"N/A","1300 North Mason Avenue ,  Chicago ,  Illinois","-87.7745077","41.9039506"
-"134","July 14, 2014","California","Sacramento","Fulton Avenue ",1,4,"N/A","Fulton Avenue  ,  Sacramento ,  California","NA","NA"
-"135","July 13, 2014","Connecticut","Stamford","84 West Park Place",0,5,"N/A","84 West Park Place ,  Stamford ,  Connecticut","-73.5412839","41.0535521"
-"136","July 13, 2014","District of Columbia","Washington","1700 block of Lincoln Road NE",0,4,"N/A","1700 block of Lincoln Road NE ,  Washington ,  District of Columbia","-77.0087051","38.9126705"
-"137","July 13, 2014","Washington","Skyway","12600 Renton Avenue South ",0,5,"N/A","12600 Renton Avenue South  ,  Skyway ,  Washington","-122.2393177","47.4917411"
-"138","July 12, 2014","California","Pasadena","1700 block of Summit Avenue",3,2,"N/A","1700 block of Summit Avenue ,  Pasadena ,  California","-118.1477121","34.1750698"
-"139","July 11, 2014","Illinois","Chicago","5200 West Quincy Street",1,3,"N/A","5200 West Quincy Street ,  Chicago ,  Illinois","-87.7553625","41.8775564"
-"140","July 9, 2014","Texas","Spring","711 Leaflet Ln",6,1,"N/A","711 Leaflet Ln ,  Spring ,  Texas","-95.4420109","30.040832"
-"141","July 8, 2014","Rhode Island","Providence","35 March Street",0,5,"N/A","35 March Street ,  Providence ,  Rhode Island","-71.424938","41.841647"
-"142","July 7, 2014","Kentucky","Stopover","KY 194E",0,4,"N/A","KY 194E ,  Stopover ,  Kentucky","NA","NA"
-"143","July 7, 2014","California","San Bernardino","312  E Baseline Street ",1,4,"N/A","312  E Baseline Street  ,  San Bernardino ,  California","NA","NA"
-"144","July 6, 2014","Florida","Miami","NW 20th Ave and NW 62nd St",2,2,"N/A","NW 20th Ave and NW 62nd St ,  Miami ,  Florida","-80.229983","25.8315384"
-"145","July 6, 2014","Missouri","Saint Louis","4600 block of Natural Bridge Avenue",0,4,"N/A","4600 block of Natural Bridge Avenue ,  Saint Louis ,  Missouri","NA","NA"
-"146","July 6, 2014","New York","Buffalo","100 block of Erb Street",0,4,"N/A","100 block of Erb Street ,  Buffalo ,  New York","NA","NA"
-"147","July 5, 2014","Michigan","Kalamazoo","N/A",0,4,"N/A","N/A ,  Kalamazoo ,  Michigan","NA","NA"
-"148","July 5, 2014","Virginia","Norfolk","861 W. 36th Street",0,7,"N/A","861 W. 36th Street ,  Norfolk ,  Virginia","-76.2974404","36.8782321"
-"149","July 5, 2014","Oregon","Portland","333 SE 122ND Ave",1,4,"N/A","333 SE 122ND Ave ,  Portland ,  Oregon","-122.5380289","45.5199523"
-"150","July 5, 2014","Indiana","Indianapolis","Broad Ripple Avenue",0,7,"N/A","Broad Ripple Avenue ,  Indianapolis ,  Indiana","-86.1313339","39.8686303"
-"151","July 5, 2014","Illinois","Centreville","4700 Piggott Avenue",0,5,"N/A","4700 Piggott Avenue ,  Centreville ,  Illinois","NA","NA"
-"152","July 5, 2014","Texas","Houston","1700 Almeda-Genoa",0,6,"N/A","1700 Almeda-Genoa ,  Houston ,  Texas","-95.395748","29.612063"
-"153","July 4, 2014","Virginia","Norfolk","1722 Thurgood Street",0,5,"N/A","1722 Thurgood Street ,  Norfolk ,  Virginia","-76.2633206","36.8263581"
-"154","July 2, 2014","Pennsylvania","Chester","1400 block of West Congress Street",0,5,"N/A","1400 block of West Congress Street ,  Chester ,  Pennsylvania","-75.3863327","39.840613"
-"155","June 30, 2014","Kentucky","Lexington","Scottsdale Circle",1,3,"N/A","Scottsdale Circle ,  Lexington ,  Kentucky","NA","NA"
-"156","June 29, 2014","Louisiana","New Orleans","700 block of Bourbon St",1,9,"N/A","700 block of Bourbon St ,  New Orleans ,  Louisiana","-90.0654568","29.9586073"
-"157","June 29, 2014","California","Los Angeles","1100 block of North Vermont Avenue",1,5,"N/A","1100 block of North Vermont Avenue ,  Los Angeles ,  California","NA","NA"
-"158","June 29, 2014","Missouri","Saint Louis","2800 block of Dayton",0,4,"N/A","2800 block of Dayton ,  Saint Louis ,  Missouri","-90.216016","38.641863"
-"159","June 28, 2014","California","Antioch","5500 Cedar Point Way",0,7,"N/A","5500 Cedar Point Way ,  Antioch ,  California","-121.7575243","37.9570006"
-"160","June 28, 2014","New York","Manhattan","Fifth Avenue and West 139th Street",0,4,"N/A","Fifth Avenue and West 139th Street ,  Manhattan ,  New York","-73.935758","40.8153398"
-"161","June 27, 2014","California","San Diego","1600 block of Cathy Street",1,3,"N/A","1600 block of Cathy Street ,  San Diego ,  California","-117.0946296","32.5872545"
-"162","June 26, 2014","Wisconsin","Milwaukee","24th and Locust",0,5,"N/A","24th and Locust ,  Milwaukee ,  Wisconsin","-87.9423791","43.0714769"
-"163","June 26, 2014","Michigan","Detroit","Grand St",2,2,"N/A","Grand St ,  Detroit ,  Michigan","-83.1258155","42.3936105"
-"164","June 25, 2014","Massachusetts","Lowell","Midland Street",0,5,"N/A","Midland Street ,  Lowell ,  Massachusetts","NA","NA"
-"165","June 24, 2014","Florida","Miami","Northwest 12th Avenue and 65th Street",2,7,"N/A","Northwest 12th Avenue and 65th Street ,  Miami ,  Florida","-80.2167252","25.8342871"
-"166","June 22, 2014","California","Windsor","Windsor Avenue",1,3,"N/A","Windsor Avenue ,  Windsor ,  California","-122.818907","38.5482316"
-"167","June 21, 2014","District of Columbia","Washington","Florida Avenue and U Street NW",0,4,"N/A","Florida Avenue and U Street NW ,  Washington ,  District of Columbia","-77.0296626","38.9204944"
-"168","June 21, 2014","Tennessee","Memphis","2119 East Alcy Road",0,5,"N/A","2119 East Alcy Road ,  Memphis ,  Tennessee","-89.9918309","35.0782535"
-"169","June 20, 2014","Maryland","Seat Pleasant","6600 block of Greig Street",0,4,"N/A","6600 block of Greig Street ,  Seat Pleasant ,  Maryland","NA","NA"
-"170","June 15, 2014","Illinois","Park Forest","200 Berry Street",0,4,"N/A","200 Berry Street ,  Park Forest ,  Illinois","-87.6787044","41.5015419"
-"171","June 15, 2014","Indiana","Kokomo","5100 Clinton Drive",0,4,"N/A","5100 Clinton Drive ,  Kokomo ,  Indiana","-86.1250352","40.4367955"
-"172","June 13, 2014","California","Los Angeles","8600 block of South Figueroa Street",3,1,"N/A","8600 block of South Figueroa Street ,  Los Angeles ,  California","-118.2824149","33.9597297"
-"173","June 9, 2014","New Jersey","Paterson","Rosa Parks Boulevard and Godwin Avenue",0,6,"N/A","Rosa Parks Boulevard and Godwin Avenue ,  Paterson ,  New Jersey","-74.1590819","40.9206769"
-"174","June 8, 2014","Alabama","Opp","611 Hardin Street",1,4,"N/A","611 Hardin Street ,  Opp ,  Alabama","-86.2531908","31.2725286"
-"175","June 7, 2014","South Carolina","Moncks Corner","Tish Lane",1,5,"N/A","Tish Lane ,  Moncks Corner ,  South Carolina","-80.13114","33.1711351"
-"176","June 7, 2014","Michigan","Oak Park","10811 W. Ten Mile Rd.",1,3,"N/A","10811 W. Ten Mile Rd. ,  Oak Park ,  Michigan","-83.1719483","42.4742091"
-"177","June 4, 2014","Illinois","Chicago","4900 West West End Avenue",1,3,"N/A","4900 West West End Avenue ,  Chicago ,  Illinois","-87.7481862","41.8832704"
-"178","June 3, 2014","Georgia","Atlanta","Auburn Avenue",1,4,"N/A","Auburn Avenue ,  Atlanta ,  Georgia","NA","NA"
-"179","June 2, 2014","Illinois","Chicago","2660 E. 79th St",0,7,"N/A","2660 E. 79th St ,  Chicago ,  Illinois","-87.5591115","41.7521292"
-"180","June 1, 2014","Illinois","Chicago","West Ferdinand Street and North Lavergne Avenue ",1,5,"N/A","West Ferdinand Street and North Lavergne Avenue  ,  Chicago ,  Illinois","-87.7504935","41.889518"
-"181","June 1, 2014","California","Sacramento","6500 46th Street",0,4,"N/A","6500 46th Street ,  Sacramento ,  California","-121.4523736","38.5080909"
-"182","May 31, 2014","California","San Bernardino","N/A",1,3,"N/A","N/A ,  San Bernardino ,  California","-117.2897652","34.1083449"
-"183","May 25, 2014","Ohio","Toledo","2100 block of Joffre Avenue",1,3,"N/A","2100 block of Joffre Avenue ,  Toledo ,  Ohio","-83.5864427","41.6616563"
-"184","May 24, 2014","South Carolina","Myrtle Beach","Ocean Boulevard near First Avenue North",3,1,"N/A","Ocean Boulevard near First Avenue North ,  Myrtle Beach ,  South Carolina","NA","NA"
-"185","May 24, 2014","Michigan","Detroit","Strathmoor Street",0,4,"N/A","Strathmoor Street ,  Detroit ,  Michigan","NA","NA"
-"186","May 23, 2014","California","Goleta (Isla Vista)","840 Embarcadero Del Norte",4,8,"N/A","840 Embarcadero Del Norte ,  Goleta (Isla Vista) ,  California","NA","NA"
-"187","May 23, 2014","Louisiana","New Orleans","6200 block of Eads Street",1,7,"N/A","6200 block of Eads Street ,  New Orleans ,  Louisiana","-90.0507377","30.0227315"
-"188","May 23, 2014","California","Bellflower","9541 Flower Street",2,2,"N/A","9541 Flower Street ,  Bellflower ,  California","-118.1303257","33.8821979"
-"189","May 21, 2014","Texas","Dallas","4500 block of Village Fair Drive",1,3,"N/A","4500 block of Village Fair Drive ,  Dallas ,  Texas","-96.826773","32.694118"
-"190","May 18, 2014","Ohio","Sandusky","1643 Cleveland Rd",0,7,"N/A","1643 Cleveland Rd ,  Sandusky ,  Ohio","NA","NA"
-"191","May 17, 2014","California","Coachella","84000 block of Pedro Drive",1,3,"N/A","84000 block of Pedro Drive ,  Coachella ,  California","NA","NA"
-"192","May 17, 2014","District of Columbia","Washington","2200 block of Adams Place NE",0,5,"N/A","2200 block of Adams Place NE ,  Washington ,  District of Columbia","-76.9750491","38.9195118"
-"193","May 13, 2014","Georgia","Atlanta","Panther Trail and Childress Drive",0,5,"N/A","Panther Trail and Childress Drive ,  Atlanta ,  Georgia","-84.486189","33.698155"
-"194","May 12, 2014","Illinois","Chicago","3400 West 24th Street",0,4,"N/A","3400 West 24th Street ,  Chicago ,  Illinois","-87.7100181","41.8480692"
-"195","May 11, 2014","California","Sacramento","Peregrine Park",1,6,"N/A","Peregrine Park ,  Sacramento ,  California","NA","NA"
-"196","May 11, 2014","Tennessee","Memphis","2517 Shasta",0,7,"N/A","2517 Shasta ,  Memphis ,  Tennessee","-89.9732795","35.1687664"
-"197","May 10, 2014","Georgia","Stone Mountain","1100 To Lani Farm Road",1,3,"N/A","1100 To Lani Farm Road ,  Stone Mountain ,  Georgia","-84.2059074","33.7621815"
-"198","May 10, 2014","Georgia","Decatur","Shamrock Drive ",2,3,"N/A","Shamrock Drive  ,  Decatur ,  Georgia","NA","NA"
-"199","May 10, 2014","California","Sacramento","Natomas",1,6,"N/A","Natomas ,  Sacramento ,  California","-121.5078821","38.6707575"
-"200","May 4, 2014","Illinois","Chicago","500 West Erie Street",1,3,"N/A","500 West Erie Street ,  Chicago ,  Illinois","-87.6414409","41.8938944"
-"201","May 4, 2014","Colorado","Wheat Ridge","12100 W 44th",0,4,"N/A","12100 W 44th ,  Wheat Ridge ,  Colorado","NA","NA"
-"202","May 3, 2014","Arkansas","Jonesboro","2201 Moore Road; Dalton Farmer Drive; County Road 664",4,4,"N/A","2201 Moore Road; Dalton Farmer Drive; County Road 664 ,  Jonesboro ,  Arkansas","NA","NA"
-"203","April 30, 2014","Illinois","Chicago","7200 South Phillips Avenue",0,4,"N/A","7200 South Phillips Avenue ,  Chicago ,  Illinois","NA","NA"
-"204","April 29, 2014","Georgia","Kennesaw","1675 Airport Road",1,6,"N/A","1675 Airport Road ,  Kennesaw ,  Georgia","NA","NA"
-"205","April 27, 2014","New York","Troy","Fourth Street",0,5,"N/A","Fourth Street ,  Troy ,  New York","NA","NA"
-"206","April 25, 2014","Tennessee","Memphis","2000 Chelsea Avenue",2,3,"N/A","2000 Chelsea Avenue ,  Memphis ,  Tennessee","-89.9906671","35.1734373"
-"207","April 22, 2014","California","Los Angeles","6419 Brynhurst Avenue",1,3,"N/A","6419 Brynhurst Avenue ,  Los Angeles ,  California","NA","NA"
-"208","April 20, 2014","Illinois","Montgomery","1300 block of Jackson St",0,6,"N/A","1300 block of Jackson St ,  Montgomery ,  Illinois","NA","NA"
-"209","April 20, 2014","Florida","Tampa","2902 N. 32nd St.",2,2,"N/A","2902 N. 32nd St. ,  Tampa ,  Florida","-82.4248819","27.9704295"
-"210","April 20, 2014","Illinois","Chicago","6600 South Michigan Ave",0,5,"N/A","6600 South Michigan Ave ,  Chicago ,  Illinois","-87.6230991","41.774825"
-"211","April 14, 2014","District of Columbia","Washington","1500 block of 19th Street",0,4,"N/A","1500 block of 19th Street ,  Washington ,  District of Columbia","-77.0434366","38.9105162"
-"212","April 12, 2014","Louisiana","New Orleans","2100 block of Pauger Street",1,3,"N/A","2100 block of Pauger Street ,  New Orleans ,  Louisiana","-90.0607641","29.9715019"
-"213","April 11, 2014","Indiana","Richmond","North 15th and H Streets",0,4,"N/A","North 15th and H Streets ,  Richmond ,  Indiana","-84.881606","39.838645"
-"214","April 9, 2014","Tennessee","Lookout Valley","Kellys Ferry Road and Kellys Ferry Place",3,1,"N/A","Kellys Ferry Road and Kellys Ferry Place ,  Lookout Valley ,  Tennessee","-85.4072606","35.0283093"
-"215","April 9, 2014","Illinois","Rockford","300 North Sunset",0,4,"N/A","300 North Sunset ,  Rockford ,  Illinois","-89.1183927","42.2787689"
-"216","April 7, 2014","Louisiana","New Orleans","500 block of South Alexander Street",0,4,"N/A","500 block of South Alexander Street ,  New Orleans ,  Louisiana","-90.1071864","29.9732273"
-"217","April 6, 2014","Massachusetts","Springfield","90 Worthington St.",0,4,"N/A","90 Worthington St. ,  Springfield ,  Massachusetts","-72.5936484","42.1031315"
-"218","April 6, 2014","Oklahoma","Oklahoma City","Northwest 29th Street and Portland Avenue",0,4,"N/A","Northwest 29th Street and Portland Avenue ,  Oklahoma City ,  Oklahoma","-97.583367","35.4987478"
-"219","April 5, 2014","Illinois","Chicago","4300 W Wilcox Street",1,5,"N/A","4300 W Wilcox Street ,  Chicago ,  Illinois","-87.733109","41.879032"
-"220","April 5, 2014","Arizona","Phoenix","West Palm Lane near 54th Avenue",1,3,"N/A","West Palm Lane near 54th Avenue ,  Phoenix ,  Arizona","NA","NA"
-"221","April 5, 2014","California","Fairfield","Orchid Street ",0,4,"N/A","Orchid Street  ,  Fairfield ,  California","-122.036953","38.278664"
-"222","April 2, 2014","Texas","Fort Hood","Motor Pool Road and Tank Destroyer Boulevard",4,16,"N/A","Motor Pool Road and Tank Destroyer Boulevard ,  Fort Hood ,  Texas","-97.7944469","31.1329784"
-"223","March 30, 2014","Mississippi","Starkville","N/A",0,5,"N/A","N/A ,  Starkville ,  Mississippi","-88.8183872","33.4503998"
-"224","March 30, 2014","North Carolina","Charlotte","4300 Sunset Road",0,5,"N/A","4300 Sunset Road ,  Charlotte ,  North Carolina","-80.8562731","35.3049935"
-"225","March 23, 2014","Texas","Arlington","2700 Majesty Drive",1,3,"N/A","2700 Majesty Drive ,  Arlington ,  Texas","-97.0607784","32.7546259"
-"226","March 23, 2014","California","San Francisco","Turk and Taylor",0,7,"N/A","Turk and Taylor ,  San Francisco ,  California","NA","NA"
-"227","March 23, 2014","California","Long Beach","601 Long Beach Boulevard",1,3,"N/A","601 Long Beach Boulevard ,  Long Beach ,  California","-118.1897511","33.7743901"
-"228","March 21, 2014","South Carolina","North Charleston","7550 Dorchester Road",0,4,"N/A","7550 Dorchester Road ,  North Charleston ,  South Carolina","-80.0787343","32.9035946"
-"229","March 16, 2014","Texas","Beaumont","S 4th St",3,1,"N/A","S 4th St ,  Beaumont ,  Texas","-94.1155643","30.0588443"
-"230","March 16, 2014","Georgia","Waynesboro","4960 Highway 80 West ",0,4,"N/A","4960 Highway 80 West  ,  Waynesboro ,  Georgia","-81.8474274","33.209855"
-"231","March 14, 2014","New York","Brooklyn","S. Second and Roebling Sts",0,4,"N/A","S. Second and Roebling Sts ,  Brooklyn ,  New York","-73.9590615","40.7121669"
-"232","March 9, 2014","Ohio","Fremont","531 W State St",3,1,"N/A","531 W State St ,  Fremont ,  Ohio","-83.116532","41.348378"
-"233","March 9, 2014","Texas","Austin"," 4900 block of West Race Avenue",0,6,"N/A"," 4900 block of West Race Avenue ,  Austin ,  Texas","-97.657181","30.3030493"
-"234","March 8, 2014","Illinois","Chicago","4900 West Race Ave",0,6,"N/A","4900 West Race Ave ,  Chicago ,  Illinois","-87.748309","41.890715"
-"235","March 8, 2014","California","Richmond","1600 block of First Street",1,3,"N/A","1600 block of First Street ,  Richmond ,  California","-122.368475","37.956275"
-"236","March 5, 2014","South Carolina","Pelzer","Law Street",3,2,"N/A","Law Street ,  Pelzer ,  South Carolina","-82.4528394","34.6393756"
-"237","March 1, 2014","Pennsylvania","Pittsburgh","Hamilton Avenue",1,4,"N/A","Hamilton Avenue ,  Pittsburgh ,  Pennsylvania","-79.9024885","40.4557517"
-"238","March 1, 2014","Michigan","Detroit","7800 Gratiot Av.",0,4,"N/A","7800 Gratiot Av. ,  Detroit ,  Michigan","-83.0147785","42.3779806"
-"239","February 25, 2014","Virginia","Glade Spring","Graceland Lane",5,1,"N/A","Graceland Lane ,  Glade Spring ,  Virginia","-81.7848237","36.7843339"
-"240","February 22, 2014","California","Wilmington","1200 block of W Papeete St",0,4,"N/A","1200 block of W Papeete St ,  Wilmington ,  California","NA","NA"
-"241","February 20, 2014","California","Alturas","300 W 1st St",4,2,"N/A","300 W 1st St ,  Alturas ,  California","-120.5452488","41.4839452"
-"242","February 20, 2014","Indiana","Indianapolis","3400 block of South Parker",4,0,"N/A","3400 block of South Parker ,  Indianapolis ,  Indiana","-86.1139207","39.7170278"
-"243","February 16, 2014","Texas","Fort Worth"," 115 NW 25th St.",1,4,"N/A"," 115 NW 25th St. ,  Fort Worth ,  Texas","-97.3499256","32.7897485"
-"244","February 16, 2014","Florida","Orange County","4500 block of Riviera Shores ",1,6,"N/A","4500 block of Riviera Shores  ,  Orange County ,  Florida","-81.2742782","28.5981122"
-"245","February 16, 2014","Florida","Jacksonville","1187 S. Edgewood Ave.",1,4,"N/A","1187 S. Edgewood Ave. ,  Jacksonville ,  Florida","-81.7134144","30.3084697"
-"246","February 16, 2014","Texas","Dallas","2600 block of South Harwood Street",1,7,"N/A","2600 block of South Harwood Street ,  Dallas ,  Texas","-96.7790179","32.76734"
-"247","February 16, 2014","Indiana","Fort Wayne","Lafayette Street and East Tillman Road",0,5,"N/A","Lafayette Street and East Tillman Road ,  Fort Wayne ,  Indiana","-85.1191388","41.0172956"
-"248","February 15, 2014","Nevada","Las Vegas","Sahara and Maryland ",0,5,"N/A","Sahara and Maryland  ,  Las Vegas ,  Nevada","-115.1369439","36.1441689"
-"249","February 12, 2014","Indiana","Gary","2220 block of Broadway",0,5,"N/A","2220 block of Broadway ,  Gary ,  Indiana","-87.3371429","41.5780964"
-"250","February 12, 2014","California","Oakland","37th and International ",1,3,"N/A","37th and International  ,  Oakland ,  California","-122.2208449","37.7752416"
-"251","February 12, 2014","California","Stockton","Constitution Park",1,3,"N/A","Constitution Park ,  Stockton ,  California","-121.2774788","37.9595498"
-"252","February 7, 2014","Florida","Miami","Northwest 41st Street and 9th Avenue ",0,5,"N/A","Northwest 41st Street and 9th Avenue  ,  Miami ,  Florida","-80.2629892","25.7806007"
-"253","February 6, 2014","Louisiana","New Orleans","4600 block of Downman Road",0,4,"N/A","4600 block of Downman Road ,  New Orleans ,  Louisiana","-90.0219584","30.016324"
-"254","February 5, 2014","Illinois","Chicago","6740 N Clark St",1,3,"N/A","6740 N Clark St ,  Chicago ,  Illinois","-87.6731401","42.0048278"
-"255","February 3, 2014","Indiana","Franklin","2100 block of Bridlewood Dr",3,2,"N/A","2100 block of Bridlewood Dr ,  Franklin ,  Indiana","-86.0449971","39.4997647"
-"256","January 27, 2014","North Carolina","Rocky Mount","821 Word Plaza",0,4,"N/A","821 Word Plaza ,  Rocky Mount ,  North Carolina","-77.8189529","35.9690182"
-"257","January 27, 2014","Washington","Seattle","2nd Avenue South and South Main Street",1,4,"N/A","2nd Avenue South and South Main Street ,  Seattle ,  Washington","-122.331575","47.6000368"
-"258","January 25, 2014","Illinois","Chicago","S. Union Av and W. 51st St",1,4,"N/A","S. Union Av and W. 51st St ,  Chicago ,  Illinois","-87.6429023","41.8016155"
-"259","January 25, 2014","Florida","Belle Glade","600 block of Covenant Drive",0,4,"N/A","600 block of Covenant Drive ,  Belle Glade ,  Florida","-80.6739228","26.6868481"
-"260","January 21, 2014","New Jersey","Newark","Springfield Avenue ",2,3,"N/A","Springfield Avenue  ,  Newark ,  New Jersey","-74.1914125","40.7340152"
-"261","January 20, 2014","Virginia","Manassas","8509 Rixlew Ln",0,4,"N/A","8509 Rixlew Ln ,  Manassas ,  Virginia","-77.5018772","38.7724416"
-"262","January 16, 2014","Utah","Spanish Fork","37 N. 630 West",5,0,"N/A","37 N. 630 West ,  Spanish Fork ,  Utah","-111.6653971","40.1103572"
-"263","January 16, 2014","Oklahoma","Ardmore","N/A",2,4,"N/A","N/A ,  Ardmore ,  Oklahoma","-97.1436254","34.1742611"
-"264","January 14, 2014","California","Los Angeles","West 86th Street",0,4,"N/A","West 86th Street ,  Los Angeles ,  California","-118.3987642","33.9592417"
-"265","January 13, 2014","Michigan","Detroit","800 block of Calvert St",0,4,"N/A","800 block of Calvert St ,  Detroit ,  Michigan","NA","NA"
-"266","January 12, 2014","Louisiana","Tallulah","3600 block of Highway 80 W",0,6,"N/A","3600 block of Highway 80 W ,  Tallulah ,  Louisiana","-91.1867517","32.4085176"
-"267","January 12, 2014","Alabama","Huntsville","University Drive",0,5,"N/A","University Drive ,  Huntsville ,  Alabama","-86.6503899","34.7365623"
-"268","January 12, 2014","Illinois","Elgin","300 block of North Street",0,5,"N/A","300 block of North Street ,  Elgin ,  Illinois","NA","NA"
-"269","January 3, 2014","New York","Queens","Farmers Boulevard and 133rd Avenue",1,3,"N/A","Farmers Boulevard and 133rd Avenue ,  Queens ,  New York","NA","NA"
-"270","January 1, 2014","Virginia","Norfolk","Rockingham Street and Berkley Avenue Extended",2,2,"N/A","Rockingham Street and Berkley Avenue Extended ,  Norfolk ,  Virginia","NA","NA"
+,Incident.Date,State,City.Or.County,Address,X..Killed,X..Injured,Operations,fullad,long,lat
+1,29-Dec-14,Louisiana,New Orleans,Poydras and Bolivar,0,4,N/A,"Poydras and Bolivar ,  New Orleans ,  Louisiana",-90.0839102,29.9542981
+2,27-Dec-14,California,Los Angeles,8800 block of South Figueroa Street,1,3,N/A,"8800 block of South Figueroa Street ,  Los Angeles ,  California",-118.2827122,33.9573722
+3,27-Dec-14,California,Sacramento,4000 block of May Street,0,4,N/A,"4000 block of May Street ,  Sacramento ,  California",-121.4430593,38.6404317
+4,26-Dec-14,Illinois,East St. Louis,2500 block of Summit Avenue,1,3,N/A,"2500 block of Summit Avenue ,  East St. Louis ,  Illinois",-90.1254163,38.6196182
+5,24-Dec-14,Missouri,Saint Louis,18th and Pine,1,3,N/A,"18th and Pine ,  Saint Louis ,  Missouri",-90.2059421,38.630663
+6,23-Dec-14,Kentucky,Winchester,260 Oxford Drive,1,3,N/A,"260 Oxford Drive ,  Winchester ,  Kentucky",-84.2089874,38.0030814
+7,22-Dec-14,Michigan,Detroit,Charlevoix and Philip,1,3,N/A,"Charlevoix and Philip ,  Detroit ,  Michigan",-82.9486464,42.38358
+8,22-Dec-14,New York,Webster,191 Lake Road,4,2,N/A,"191 Lake Road ,  Webster ,  New York",-77.5255331,43.236828
+9,22-Dec-14,Illinois,Chicago,5700 block of South Green Street,0,5,N/A,"5700 block of South Green Street ,  Chicago ,  Illinois",-87.646624,41.790482
+10,21-Dec-14,Florida,Sarasota,4034 N Washington Blvd,2,2,N/A,"4034 N Washington Blvd ,  Sarasota ,  Florida",-82.5299717,27.3688478
+11,21-Dec-14,Mississippi,Waynesboro,Central Avenue,1,4,N/A,"Central Avenue ,  Waynesboro ,  Mississippi",-88.6580584,31.6784364
+12,21-Dec-14,Illinois,Calumet City,600 block of Escanba,1,8,N/A,"600 block of Escanba ,  Calumet City ,  Illinois",-87.5528405,41.6180814
+13,20-Dec-14,Illinois,Rockford,3200 block of Montrose Avenue,4,0,N/A,"3200 block of Montrose Avenue ,  Rockford ,  Illinois",-89.1071791,42.2938571
+14,16-Dec-14,New Jersey,Elizabeth,Anna Street,0,4,N/A,"Anna Street ,  Elizabeth ,  New Jersey",-74.2043131,40.6688088
+15,15-Dec-14,Pennsylvania,Lansdale,100 block of West 5th St,7,0,N/A,"100 block of West 5th St ,  Lansdale ,  Pennsylvania",-75.282032,40.245946
+16,14-Dec-14,Florida,Miami,1311 Northwest 2nd Avenue,1,4,N/A,"1311 Northwest 2nd Avenue ,  Miami ,  Florida",-80.1984688,25.7871407
+17,13-Dec-14,Florida,Tampa,810 E. Skagway Ave.,0,5,N/A,"810 E. Skagway Ave. ,  Tampa ,  Florida",-82.4524689,28.0324123
+18,12-Dec-14,Oregon,Portland,717 North Killingsworth Court,0,4,N/A,"717 North Killingsworth Court ,  Portland ,  Oregon",-122.6743133,45.5620669
+19,7-Dec-14,Indiana,South Bend,16000 block of Roosevelt Road,0,4,N/A,"16000 block of Roosevelt Road ,  South Bend ,  Indiana",-86.181481,41.59062
+20,2-Dec-14,Missouri,Saint Louis,6000 block of Virginia Avenue,1,5,N/A,"6000 block of Virginia Avenue ,  Saint Louis ,  Missouri",-90.2492351,38.5616394
+21,2-Dec-14,Virginia,Newport News,6128 Jefferson Ave ,0,5,N/A,"6128 Jefferson Ave  ,  Newport News ,  Virginia",-76.4462883,37.0231409
+22,30-Nov-14,New York,Brooklyn,375 Remsen Avenue,0,4,N/A,"375 Remsen Avenue ,  Brooklyn ,  New York",-73.923628,40.656471
+23,30-Nov-14,Tennessee,Chattanooga,2412 East 13th Street ,0,5,N/A,"2412 East 13th Street  ,  Chattanooga ,  Tennessee",-85.2711357,35.0246664
+24,29-Nov-14,New Jersey,Newark,348 S Orange Ave,1,3,N/A,"348 S Orange Ave ,  Newark ,  New Jersey",-74.1999812,40.7399153
+25,29-Nov-14,Georgia,Atlanta,1600 block of Richmond Avenue,3,2,N/A,"1600 block of Richmond Avenue ,  Atlanta ,  Georgia",-84.3798407,33.7100019
+26,28-Nov-14,Tennessee,Memphis,1849 East Brooks Road ,0,4,N/A,"1849 East Brooks Road  ,  Memphis ,  Tennessee",-90.0021493,35.0604534
+27,27-Nov-14,Texas,Georgetown,Pvt Rd 934,2,3,N/A,"Pvt Rd 934 ,  Georgetown ,  Texas",-97.592544,30.6777088
+28,26-Nov-14,California,San Francisco,Mission and 13th streets,0,6,N/A,"Mission and 13th streets ,  San Francisco ,  California",-122.4201876,37.7699578
+29,23-Nov-14,Colorado,Denver,Federal Boulevard and 16th Avenue,1,4,N/A,"Federal Boulevard and 16th Avenue ,  Denver ,  Colorado",-105.025233,39.742742
+30,23-Nov-14,Virginia,Accomack County,Parksley Road,0,4,N/A,"Parksley Road ,  Accomack County ,  Virginia",-75.636071,37.768317
+31,22-Nov-14,Ohio,Cleveland,1443 E 92nd St,4,1,N/A,"1443 E 92nd St ,  Cleveland ,  Ohio",-81.6231379,41.51689
+32,22-Nov-14,South Dakota,Sisseton,Fourth Avenue,4,1,N/A,"Fourth Avenue ,  Sisseton ,  South Dakota",-97.045752,45.663762
+33,22-Nov-14,Ohio,Springfield,Clifton Avenue and Rice Street,1,3,N/A,"Clifton Avenue and Rice Street ,  Springfield ,  Ohio",-83.807733,39.909589
+34,21-Nov-14,Pennsylvania,Pittsburgh,600 block of Miller Avenue,0,6,N/A,"600 block of Miller Avenue ,  Pittsburgh ,  Pennsylvania",-79.883405,40.2926
+35,19-Nov-14,Illinois,Chicago,700 block of North St. Louis Avenue,1,3,N/A,"700 block of North St. Louis Avenue ,  Chicago ,  Illinois",-87.7138038,41.8936456
+36,18-Nov-14,Nevada,North Las Vegas,Englestad Street,0,4,N/A,"Englestad Street ,  North Las Vegas ,  Nevada",-115.147347,36.210424
+37,16-Nov-14,Ohio,Akron,1891 East Market Street,1,4,N/A,"1891 East Market Street ,  Akron ,  Ohio",-81.4601481,41.0619729
+38,16-Nov-14,Texas,El Paso,115 S. Durango,0,6,N/A,"115 S. Durango ,  El Paso ,  Texas",-106.493512,31.757076
+39,15-Nov-14,Missouri,Springfield,2555 N. Glenstone,4,0,N/A,"2555 N. Glenstone ,  Springfield ,  Missouri",-93.262331,37.243691
+40,15-Nov-14,Florida,Miami,NW 55th and 12th,1,3,N/A,"NW 55th and 12th ,  Miami ,  Florida",-80.2172875,25.8254516
+41,8-Nov-14,California,Pomona,499 E. Arrow Highway,0,5,N/A,"499 E. Arrow Highway ,  Pomona ,  California",-117.7427867,34.0901614
+42,7-Nov-14,California,Compton,136th Street ,0,4,N/A,"136th Street  ,  Compton ,  California",-118.2466961,33.9081057
+43,7-Nov-14,California,Los Angeles,East 126th Street and North Compton Avenue,0,4,N/A,"East 126th Street and North Compton Avenue ,  Los Angeles ,  California",-118.2462168,33.9184737
+44,5-Nov-14,California,San Francisco,1100 block of Alabama Street ,0,4,N/A,"1100 block of Alabama Street  ,  San Francisco ,  California",-122.411139,37.754282
+45,29-Oct-14,Tennessee,Memphis,Yale Road and Ramill Road,0,5,N/A,"Yale Road and Ramill Road ,  Memphis ,  Tennessee",-89.927195,35.220537
+46,26-Oct-14,Kentucky,Cadiz,1410 Old Dover Road,4,0,N/A,"1410 Old Dover Road ,  Cadiz ,  Kentucky",-87.849653,36.829145
+47,24-Oct-14,California,Sacramento,2030 Arden Way,2,3,N/A,"2030 Arden Way ,  Sacramento ,  California",-121.4182069,38.5957421
+48,24-Oct-14,Washington,Marysville,5611 108th St NE,5,1,N/A,"5611 108th St NE ,  Marysville ,  Washington",-122.154581,48.092114
+49,18-Oct-14,New York,Queens,33-02 Queens Blvd,0,4,N/A,"33-02 Queens Blvd ,  Queens ,  New York",-73.931114,40.744246
+50,18-Oct-14,South Carolina,Graniteville,192 Breezy Hill Road,1,3,N/A,"192 Breezy Hill Road ,  Graniteville ,  South Carolina",-81.8431128,33.5663263
+51,18-Oct-14,New York,Brooklyn,Lenox Road,0,4,N/A,"Lenox Road ,  Brooklyn ,  New York",-73.9379985,40.6548805
+52,16-Oct-14,Michigan,Detroit,Mogul Street,1,3,N/A,"Mogul Street ,  Detroit ,  Michigan",-82.9621522,42.4167375
+53,14-Oct-14,Georgia,Peachtree Corners,6505 Bannor Lane,3,2,N/A,"6505 Bannor Lane ,  Peachtree Corners ,  Georgia",-84.2512157,33.9504971
+54,13-Oct-14,Georgia,Atlanta,85 Mount Zion Road,0,4,N/A,"85 Mount Zion Road ,  Atlanta ,  Georgia",-84.3905948,33.6732435
+55,12-Oct-14,Georgia,Atlanta,Arthur Langford Jr Place,1,3,N/A,"Arthur Langford Jr Place ,  Atlanta ,  Georgia",-84.3977631,33.7120678
+56,12-Oct-14,California,Stockton,1100 block of East March Lane,3,1,N/A,"1100 block of East March Lane ,  Stockton ,  California",-121.2920369,38.0018397
+57,11-Oct-14,New York,Utica,222 Bleecker Street,0,5,N/A,"222 Bleecker Street ,  Utica ,  New York",-75.228421,43.1012497
+58,8-Oct-14,Georgia,Atlanta,Auburn Avenue and Edgewood Avenue,0,4,N/A,"Auburn Avenue and Edgewood Avenue ,  Atlanta ,  Georgia",-84.3798768,33.7540928
+59,8-Oct-14,New York,Guilderland,1846 Western Ave,4,0,N/A,"1846 Western Ave ,  Guilderland ,  New York",-73.8711525,42.6914409
+60,5-Oct-14,Florida,Jacksonville,7300 block of Linda Drive,3,1,N/A,"7300 block of Linda Drive ,  Jacksonville ,  Florida",-81.672319,30.387035
+61,5-Oct-14,Michigan,Detroit,East 7 Mile Road and Sherwood Street,1,5,N/A,"East 7 Mile Road and Sherwood Street ,  Detroit ,  Michigan",-83.0340459,42.433768
+62,4-Oct-14,Tennessee,Memphis,1400 block of Gherald Street,2,2,N/A,"1400 block of Gherald Street ,  Memphis ,  Tennessee",-89.9210617,35.1698459
+63,4-Oct-14,California,Pomona,1925 West Holt Avenue ,0,4,N/A,"1925 West Holt Avenue  ,  Pomona ,  California",-117.784109,34.061772
+64,29-Sep-14,South Carolina,Walterboro,29 Sandy Dam Lane,1,7,N/A,"29 Sandy Dam Lane ,  Walterboro ,  South Carolina",-80.620366,32.885248
+65,29-Sep-14,California,Fresno,2300 block of West Fountain Way ,0,4,N/A,"2300 block of West Fountain Way  ,  Fresno ,  California",-119.838118,36.781362
+66,28-Sep-14,Pennsylvania,Philadelphia,2800 block of Hope Street,0,4,N/A,"2800 block of Hope Street ,  Philadelphia ,  Pennsylvania",-75.1312117,39.9926538
+67,28-Sep-14,Florida,Miami,NW 7th Ave and NW 64th Street,0,15,N/A,"NW 7th Ave and NW 64th Street ,  Miami ,  Florida",-80.2085914,25.8341404
+68,27-Sep-14,Missouri,Saint Louis,2000 block East John Avenue,0,5,N/A,"2000 block East John Avenue ,  Saint Louis ,  Missouri",-90.209797,38.6716819
+69,26-Sep-14,South Carolina,Darlington County,600 block of Turner Road,1,4,N/A,"600 block of Turner Road ,  Darlington County ,  South Carolina",-79.7670811,34.2592117
+70,21-Sep-14,Ohio,East Liverpool,440 First St,0,4,N/A,"440 First St ,  East Liverpool ,  Ohio",-80.5529381,40.6308582
+71,20-Sep-14,Mississippi,Panola County,N/A,2,2,N/A,"N/A ,  Panola County ,  Mississippi",-89.925323,34.419802
+72,19-Sep-14,New York,Queens,32-14 106th St,0,4,N/A,"32-14 106th St ,  Queens ,  New York",-73.863359,40.75929
+73,18-Sep-14,Florida,Bell,NW 30th Street and NW 39th Terrace,8,0,N/A,"NW 30th Street and NW 39th Terrace ,  Bell ,  Florida",-82.851629,29.781706
+74,15-Sep-14,Louisiana,New Orleans,Chef Menteur Highway and Dale Street,0,5,N/A,"Chef Menteur Highway and Dale Street ,  New Orleans ,  Louisiana",-90.009757,30.011209
+75,14-Sep-14,Texas,Flour Bluff,229 Naval Air Station Drive,3,1,N/A,"229 Naval Air Station Drive ,  Flour Bluff ,  Texas",-97.2762385,27.6783188
+76,14-Sep-14,Alaska,Anchorage,225 E Fifth,0,6,N/A,"225 E Fifth ,  Anchorage ,  Alaska",-149.8801505,61.2177897
+77,11-Sep-14,Michigan,Detroit,14000 block of Patton,1,7,N/A,"14000 block of Patton ,  Detroit ,  Michigan",-83.2433659,42.3728528
+78,6-Sep-14,Florida,Orlando,2015 Orange Blossom Trail,0,4,N/A,"2015 Orange Blossom Trail ,  Orlando ,  Florida",-81.3965152,28.5204997
+79,6-Sep-14,Georgia,Macon,576 Poplar Street,0,5,N/A,"576 Poplar Street ,  Macon ,  Georgia",-83.6299795,32.8347541
+80,4-Sep-14,Michigan,Flint,2400 block of Martin Luther King Boulevard,0,5,N/A,"2400 block of Martin Luther King Boulevard ,  Flint ,  Michigan",-83.704113,43.0384242
+81,3-Sep-14,California,Los Angeles,East 27th and Stanford ,0,6,N/A,"East 27th and Stanford  ,  Los Angeles ,  California",-118.260077,34.019891
+82,2-Sep-14,California,Highland,25000 block of Fifth Street ,0,5,N/A,"25000 block of Fifth Street  ,  Highland ,  California",-117.2320131,34.108463
+83,2-Sep-14,Mississippi,Jackson,3622 Medgar Evers Boulevard,2,3,N/A,"3622 Medgar Evers Boulevard ,  Jackson ,  Mississippi",-90.214053,32.340523
+84,31-Aug-14,California,Livermore,200 block of South Q Street ,0,5,N/A,"200 block of South Q Street  ,  Livermore ,  California",-121.777052,37.6783362
+85,29-Aug-14,Florida,Brooksville,820 Peach St,3,1,N/A,"820 Peach St ,  Brooksville ,  Florida",-82.3908868,28.5459012
+86,27-Aug-14,Michigan,Detroit,16600 block of Edmore,1,3,N/A,"16600 block of Edmore ,  Detroit ,  Michigan",-82.9484613,42.4475126
+87,24-Aug-14,Georgia,Augusta,1013 Carrie Street,1,3,N/A,"1013 Carrie Street ,  Augusta ,  Georgia",-81.9742662,33.4665546
+88,24-Aug-14,California,San Fernando,1400 block of Celis Street ,3,4,N/A,"1400 block of Celis Street  ,  San Fernando ,  California",-118.4461364,34.2860305
+89,24-Aug-14,Illinois,Chicago,8300 block of South Halsted Street,1,3,N/A,"8300 block of South Halsted Street ,  Chicago ,  Illinois",-87.643801,41.743223
+90,20-Aug-14,Tennessee,Memphis,1400 block of Briarcrest Lane,0,5,N/A,"1400 block of Briarcrest Lane ,  Memphis ,  Tennessee",-90.014954,35.224414
+91,18-Aug-14,Louisiana,Saint Martinville,Main and Hyacinth streets,0,4,N/A,"Main and Hyacinth streets ,  Saint Martinville ,  Louisiana",-91.831698,30.117309
+92,17-Aug-14,Massachusetts,Boston,Edinboro Street,0,4,N/A,"Edinboro Street ,  Boston ,  Massachusetts",-71.0597534,42.3521491
+93,17-Aug-14,California,East Palo Alto,Purdue Street and Georgetown Avenue,1,3,N/A,"Purdue Street and Georgetown Avenue ,  East Palo Alto ,  California",-122.1377406,37.4789729
+94,17-Aug-14,Nevada,Las Vegas,Owens Avenue and H Street,0,4,N/A,"Owens Avenue and H Street ,  Las Vegas ,  Nevada",-115.151878,36.188408
+95,17-Aug-14,New York,Queens,153-38 118th Ave,0,4,N/A,"153-38 118th Ave ,  Queens ,  New York",-73.7884812,40.6808923
+96,16-Aug-14,New Jersey,Plainfield,West 3rd Street and Monroe Avenue,1,3,N/A,"West 3rd Street and Monroe Avenue ,  Plainfield ,  New Jersey",-74.438195,40.604174
+97,16-Aug-14,Utah,Salt Lake City,122 Pierpont Avenue,0,6,N/A,"122 Pierpont Avenue ,  Salt Lake City ,  Utah",-111.8949323,40.7640947
+98,14-Aug-14,Tennessee,Memphis,797 Pope Street,1,3,N/A,"797 Pope Street ,  Memphis ,  Tennessee",-89.956144,35.154015
+99,13-Aug-14,Tennessee,Clarksville,Treeland Drive,0,4,N/A,"Treeland Drive ,  Clarksville ,  Tennessee",-87.3100759,36.58957
+100,13-Aug-14,Louisiana,New Orleans,New Orleans and North Rocheblave streets,0,4,N/A,"New Orleans and North Rocheblave streets ,  New Orleans ,  Louisiana",-90.0660797,29.9812248
+101,12-Aug-14,New York,Buffalo,Oakmont Avenue,1,3,N/A,"Oakmont Avenue ,  Buffalo ,  New York",-78.80785,42.932381
+102,12-Aug-14,Georgia,Bartow County,Brent Circle,2,3,N/A,"Brent Circle ,  Bartow County ,  Georgia",-84.8861039,34.1744098
+103,10-Aug-14,Louisiana,New Orleans,5400 block of Burgundy St,2,5,N/A,"5400 block of Burgundy St ,  New Orleans ,  Louisiana",-90.019197,29.959362
+104,10-Aug-14,California,Moreno Valley,16300 block of Heather Glen Road ,0,7,N/A,"16300 block of Heather Glen Road  ,  Moreno Valley ,  California",-117.2217604,33.883616
+105,10-Aug-14,District of Columbia,Washington,N Street SW,0,6,N/A,"N Street SW ,  Washington ,  District of Columbia",-77.0157117,38.8746445
+106,10-Aug-14,Georgia,Wrightsville,N/A,0,6,N/A,"N/A ,  Wrightsville ,  Georgia",-82.719859,32.7293279
+107,9-Aug-14,Minnesota,Minneapolis,400 3rd Ave N,1,8,N/A,"400 3rd Ave N ,  Minneapolis ,  Minnesota",-93.275227,44.982867
+108,8-Aug-14,Wisconsin,Milwaukee,3000 block of N. 28th Street ,0,4,N/A,"3000 block of N. 28th Street  ,  Milwaukee ,  Wisconsin",-87.9485535,43.073509
+109,8-Aug-14,New Mexico,Albuquerque,3426 Vassar NE,1,3,N/A,"3426 Vassar NE ,  Albuquerque ,  New Mexico",-106.614901,35.1194254
+110,8-Aug-14,District of Columbia,Washington,Second Street and Todd Place NE,0,4,N/A,"Second Street and Todd Place NE ,  Washington ,  District of Columbia",-77.00352,38.916289
+111,6-Aug-14,California,Bakersfield,1700 block of Quincy Street ,3,1,N/A,"1700 block of Quincy Street  ,  Bakersfield ,  California",-118.9744486,35.3814817
+112,4-Aug-14,Georgia,Atlanta,1100 block of Joseph E. Boone Boulevard NW,0,5,N/A,"1100 block of Joseph E. Boone Boulevard NW ,  Atlanta ,  Georgia",-84.423478,33.763503
+113,3-Aug-14,Texas,Humble,3403 FM 1960,0,7,N/A,"3403 FM 1960 ,  Humble ,  Texas",-95.2216679,30.0001012
+114,3-Aug-14,Missouri,Saint Louis,5200 block of Thekla ,0,5,N/A,"5200 block of Thekla  ,  Saint Louis ,  Missouri",-90.2433765,38.6904392
+115,3-Aug-14,Virginia,Culpeper,4400 block of Rixeyville Road,5,0,N/A,"4400 block of Rixeyville Road ,  Culpeper ,  Virginia",-77.979835,38.533908
+116,3-Aug-14,Tennessee,Columbia,East 9th Street and Bridge Street,0,5,N/A,"East 9th Street and Bridge Street ,  Columbia ,  Tennessee",-87.0298075,35.611702
+117,2-Aug-14,Texas,Dallas,5125 Wynell Street,3,1,N/A,"5125 Wynell Street ,  Dallas ,  Texas",-96.7824651,32.6858171
+118,2-Aug-14,Pennsylvania,Pittsburgh,Penn Avenue and 29th Street,1,5,N/A,"Penn Avenue and 29th Street ,  Pittsburgh ,  Pennsylvania",-79.9741991,40.4578461
+119,2-Aug-14,Massachusetts,New Bedford,Acushnet Avenue,0,7,N/A,"Acushnet Avenue ,  New Bedford ,  Massachusetts",-70.9272028,41.6879434
+120,1-Aug-14,Pennsylvania,Philadelphia,1500 block of South Etting Street,1,3,N/A,"1500 block of South Etting Street ,  Philadelphia ,  Pennsylvania",-75.1901392,39.9344576
+121,30-Jul-14,North Carolina,Hope Mills,926 Bramblegate Road,3,2,N/A,"926 Bramblegate Road ,  Hope Mills ,  North Carolina",-78.921686,34.968673
+122,28-Jul-14,Pennsylvania,Philadelphia,4900 block of North Front Street,1,4,N/A,"4900 block of North Front Street ,  Philadelphia ,  Pennsylvania",-75.123889,40.024743
+123,27-Jul-14,Missouri,Saint Louis,2000 block of East John Avenue,0,5,N/A,"2000 block of East John Avenue ,  Saint Louis ,  Missouri",-90.209797,38.6716819
+124,26-Jul-14,Arkansas,Pine Bluff,N/A,1,3,N/A,"N/A ,  Pine Bluff ,  Arkansas",-92.0031955,34.2284312
+125,26-Jul-14,Georgia,Sylvester,Royal Street,0,8,N/A,"Royal Street ,  Sylvester ,  Georgia",-83.8220617,31.5309776
+126,26-Jul-14,Maine,Saco,35 Water Street,5,0,N/A,"35 Water Street ,  Saco ,  Maine",-70.4487735,43.4979561
+127,25-Jul-14,Illinois,Chicago,700 South California Avenue,1,6,N/A,"700 South California Avenue ,  Chicago ,  Illinois",-87.6962999,41.872696
+128,23-Jul-14,Pennsylvania,Braddock,700 block of Hickory St,0,4,N/A,"700 block of Hickory St ,  Braddock ,  Pennsylvania",-79.8612975,40.4057612
+129,21-Jul-14,New Jersey,Irvington,36 Welland Avenue,0,6,N/A,"36 Welland Avenue ,  Irvington ,  New Jersey",-74.228937,40.7171492
+130,21-Jul-14,Tennessee,Memphis,300 block of Foote Park Lane,0,4,N/A,"300 block of Foote Park Lane ,  Memphis ,  Tennessee",-90.0452121,35.1328562
+131,20-Jul-14,Illinois,East Saint Louis,5103 block of Bunkum Rd,1,3,N/A,"5103 block of Bunkum Rd ,  East Saint Louis ,  Illinois",-90.0957623,38.6233748
+132,20-Jul-14,Nevada,Las Vegas,Rancho Drive 3400 block ,1,3,N/A,"Rancho Drive 3400 block  ,  Las Vegas ,  Nevada",-115.2150062,36.2204356
+133,19-Jul-14,Illinois,Chicago,1300 North Mason Avenue,0,4,N/A,"1300 North Mason Avenue ,  Chicago ,  Illinois",-87.7745077,41.9039506
+134,14-Jul-14,California,Sacramento,Fulton Avenue ,1,4,N/A,"Fulton Avenue  ,  Sacramento ,  California",-121.401431,38.604098
+135,13-Jul-14,Connecticut,Stamford,84 West Park Place,0,5,N/A,"84 West Park Place ,  Stamford ,  Connecticut",-73.5412839,41.0535521
+136,13-Jul-14,District of Columbia,Washington,1700 block of Lincoln Road NE,0,4,N/A,"1700 block of Lincoln Road NE ,  Washington ,  District of Columbia",-77.0087051,38.9126705
+137,13-Jul-14,Washington,Skyway,12600 Renton Avenue South ,0,5,N/A,"12600 Renton Avenue South  ,  Skyway ,  Washington",-122.2393177,47.4917411
+138,12-Jul-14,California,Pasadena,1700 block of Summit Avenue,3,2,N/A,"1700 block of Summit Avenue ,  Pasadena ,  California",-118.1477121,34.1750698
+139,11-Jul-14,Illinois,Chicago,5200 West Quincy Street,1,3,N/A,"5200 West Quincy Street ,  Chicago ,  Illinois",-87.7553625,41.8775564
+140,9-Jul-14,Texas,Spring,711 Leaflet Ln,6,1,N/A,"711 Leaflet Ln ,  Spring ,  Texas",-95.4420109,30.040832
+141,8-Jul-14,Rhode Island,Providence,35 March Street,0,5,N/A,"35 March Street ,  Providence ,  Rhode Island",-71.424938,41.841647
+142,7-Jul-14,Kentucky,Stopover,KY 194E,0,4,N/A,"KY 194E ,  Stopover ,  Kentucky",-82.09127,37.515743
+143,7-Jul-14,California,San Bernardino,312  E Baseline Street ,1,4,N/A,"312  E Baseline Street  ,  San Bernardino ,  California",-117.278133,34.121335
+144,6-Jul-14,Florida,Miami,NW 20th Ave and NW 62nd St,2,2,N/A,"NW 20th Ave and NW 62nd St ,  Miami ,  Florida",-80.229983,25.8315384
+145,6-Jul-14,Missouri,Saint Louis,4600 block of Natural Bridge Avenue,0,4,N/A,"4600 block of Natural Bridge Avenue ,  Saint Louis ,  Missouri",-90.241766,38.671689
+146,6-Jul-14,New York,Buffalo,100 block of Erb Street,0,4,N/A,"100 block of Erb Street ,  Buffalo ,  New York",-78.800157,42.920877
+147,5-Jul-14,Michigan,Kalamazoo,N/A,0,4,N/A,"N/A ,  Kalamazoo ,  Michigan",-85.587229,42.291707
+148,5-Jul-14,Virginia,Norfolk,861 W. 36th Street,0,7,N/A,"861 W. 36th Street ,  Norfolk ,  Virginia",-76.2974404,36.8782321
+149,5-Jul-14,Oregon,Portland,333 SE 122ND Ave,1,4,N/A,"333 SE 122ND Ave ,  Portland ,  Oregon",-122.5380289,45.5199523
+150,5-Jul-14,Indiana,Indianapolis,Broad Ripple Avenue,0,7,N/A,"Broad Ripple Avenue ,  Indianapolis ,  Indiana",-86.1313339,39.8686303
+151,5-Jul-14,Illinois,Centreville,4700 Piggott Avenue,0,5,N/A,"4700 Piggott Avenue ,  Centreville ,  Illinois",-90.123219,38.580054
+152,5-Jul-14,Texas,Houston,1700 Almeda-Genoa,0,6,N/A,"1700 Almeda-Genoa ,  Houston ,  Texas",-95.395748,29.612063
+153,4-Jul-14,Virginia,Norfolk,1722 Thurgood Street,0,5,N/A,"1722 Thurgood Street ,  Norfolk ,  Virginia",-76.2633206,36.8263581
+154,2-Jul-14,Pennsylvania,Chester,1400 block of West Congress Street,0,5,N/A,"1400 block of West Congress Street ,  Chester ,  Pennsylvania",-75.3863327,39.840613
+155,30-Jun-14,Kentucky,Lexington,Scottsdale Circle,1,3,N/A,"Scottsdale Circle ,  Lexington ,  Kentucky",-84.47719,38.076345
+156,29-Jun-14,Louisiana,New Orleans,700 block of Bourbon St,1,9,N/A,"700 block of Bourbon St ,  New Orleans ,  Louisiana",-90.0654568,29.9586073
+157,29-Jun-14,California,Los Angeles,1100 block of North Vermont Avenue,1,5,N/A,"1100 block of North Vermont Avenue ,  Los Angeles ,  California",-118.29176,34.091221
+158,29-Jun-14,Missouri,Saint Louis,2800 block of Dayton,0,4,N/A,"2800 block of Dayton ,  Saint Louis ,  Missouri",-90.216016,38.641863
+159,28-Jun-14,California,Antioch,5500 Cedar Point Way,0,7,N/A,"5500 Cedar Point Way ,  Antioch ,  California",-121.7575243,37.9570006
+160,28-Jun-14,New York,Manhattan,Fifth Avenue and West 139th Street,0,4,N/A,"Fifth Avenue and West 139th Street ,  Manhattan ,  New York",-73.935758,40.8153398
+161,27-Jun-14,California,San Diego,1600 block of Cathy Street,1,3,N/A,"1600 block of Cathy Street ,  San Diego ,  California",-117.0946296,32.5872545
+162,26-Jun-14,Wisconsin,Milwaukee,24th and Locust,0,5,N/A,"24th and Locust ,  Milwaukee ,  Wisconsin",-87.9423791,43.0714769
+163,26-Jun-14,Michigan,Detroit,Grand St,2,2,N/A,"Grand St ,  Detroit ,  Michigan",-83.1258155,42.3936105
+164,25-Jun-14,Massachusetts,Lowell,Midland Street,0,5,N/A,"Midland Street ,  Lowell ,  Massachusetts",-71.326855,42.623511
+165,24-Jun-14,Florida,Miami,Northwest 12th Avenue and 65th Street,2,7,N/A,"Northwest 12th Avenue and 65th Street ,  Miami ,  Florida",-80.2167252,25.8342871
+166,22-Jun-14,California,Windsor,Windsor Avenue,1,3,N/A,"Windsor Avenue ,  Windsor ,  California",-122.818907,38.5482316
+167,21-Jun-14,District of Columbia,Washington,Florida Avenue and U Street NW,0,4,N/A,"Florida Avenue and U Street NW ,  Washington ,  District of Columbia",-77.0296626,38.9204944
+168,21-Jun-14,Tennessee,Memphis,2119 East Alcy Road,0,5,N/A,"2119 East Alcy Road ,  Memphis ,  Tennessee",-89.9918309,35.0782535
+169,20-Jun-14,Maryland,Seat Pleasant,6600 block of Greig Street,0,4,N/A,"6600 block of Greig Street ,  Seat Pleasant ,  Maryland",-76.905854,38.900143
+170,15-Jun-14,Illinois,Park Forest,200 Berry Street,0,4,N/A,"200 Berry Street ,  Park Forest ,  Illinois",-87.6787044,41.5015419
+171,15-Jun-14,Indiana,Kokomo,5100 Clinton Drive,0,4,N/A,"5100 Clinton Drive ,  Kokomo ,  Indiana",-86.1250352,40.4367955
+172,13-Jun-14,California,Los Angeles,8600 block of South Figueroa Street,3,1,N/A,"8600 block of South Figueroa Street ,  Los Angeles ,  California",-118.2824149,33.9597297
+173,9-Jun-14,New Jersey,Paterson,Rosa Parks Boulevard and Godwin Avenue,0,6,N/A,"Rosa Parks Boulevard and Godwin Avenue ,  Paterson ,  New Jersey",-74.1590819,40.9206769
+174,8-Jun-14,Alabama,Opp,611 Hardin Street,1,4,N/A,"611 Hardin Street ,  Opp ,  Alabama",-86.2531908,31.2725286
+175,7-Jun-14,South Carolina,Moncks Corner,Tish Lane,1,5,N/A,"Tish Lane ,  Moncks Corner ,  South Carolina",-80.13114,33.1711351
+176,7-Jun-14,Michigan,Oak Park,10811 W. Ten Mile Rd.,1,3,N/A,"10811 W. Ten Mile Rd. ,  Oak Park ,  Michigan",-83.1719483,42.4742091
+177,4-Jun-14,Illinois,Chicago,4900 West West End Avenue,1,3,N/A,"4900 West West End Avenue ,  Chicago ,  Illinois",-87.7481862,41.8832704
+178,3-Jun-14,Georgia,Atlanta,Auburn Avenue,1,4,N/A,"Auburn Avenue ,  Atlanta ,  Georgia",-84.376547,33.753781
+179,2-Jun-14,Illinois,Chicago,2660 E. 79th St,0,7,N/A,"2660 E. 79th St ,  Chicago ,  Illinois",-87.5591115,41.7521292
+180,1-Jun-14,Illinois,Chicago,West Ferdinand Street and North Lavergne Avenue ,1,5,N/A,"West Ferdinand Street and North Lavergne Avenue  ,  Chicago ,  Illinois",-87.7504935,41.889518
+181,1-Jun-14,California,Sacramento,6500 46th Street,0,4,N/A,"6500 46th Street ,  Sacramento ,  California",-121.4523736,38.5080909
+182,31-May-14,California,San Bernardino,N/A,1,3,N/A,"N/A ,  San Bernardino ,  California",-117.2897652,34.1083449
+183,25-May-14,Ohio,Toledo,2100 block of Joffre Avenue,1,3,N/A,"2100 block of Joffre Avenue ,  Toledo ,  Ohio",-83.5864427,41.6616563
+184,24-May-14,South Carolina,Myrtle Beach,Ocean Boulevard near First Avenue North,3,1,N/A,"Ocean Boulevard near First Avenue North ,  Myrtle Beach ,  South Carolina",-78.677767,33.817332
+185,24-May-14,Michigan,Detroit,Strathmoor Street,0,4,N/A,"Strathmoor Street ,  Detroit ,  Michigan",-83.187623,42.39833
+186,23-May-14,California,Goleta (Isla Vista),840 Embarcadero Del Norte,4,8,N/A,"840 Embarcadero Del Norte ,  Goleta (Isla Vista) ,  California",-119.855388,34.414441
+187,23-May-14,Louisiana,New Orleans,6200 block of Eads Street,1,7,N/A,"6200 block of Eads Street ,  New Orleans ,  Louisiana",-90.0507377,30.0227315
+188,23-May-14,California,Bellflower,9541 Flower Street,2,2,N/A,"9541 Flower Street ,  Bellflower ,  California",-118.1303257,33.8821979
+189,21-May-14,Texas,Dallas,4500 block of Village Fair Drive,1,3,N/A,"4500 block of Village Fair Drive ,  Dallas ,  Texas",-96.826773,32.694118
+190,18-May-14,Ohio,Sandusky,1643 Cleveland Rd,0,7,N/A,"1643 Cleveland Rd ,  Sandusky ,  Ohio",-82.685849,41.442953
+191,17-May-14,California,Coachella,84000 block of Pedro Drive,1,3,N/A,"84000 block of Pedro Drive ,  Coachella ,  California",-116.188748,33.684932
+192,17-May-14,District of Columbia,Washington,2200 block of Adams Place NE,0,5,N/A,"2200 block of Adams Place NE ,  Washington ,  District of Columbia",-76.9750491,38.9195118
+193,13-May-14,Georgia,Atlanta,Panther Trail and Childress Drive,0,5,N/A,"Panther Trail and Childress Drive ,  Atlanta ,  Georgia",-84.486189,33.698155
+194,12-May-14,Illinois,Chicago,3400 West 24th Street,0,4,N/A,"3400 West 24th Street ,  Chicago ,  Illinois",-87.7100181,41.8480692
+195,11-May-14,California,Sacramento,Peregrine Park,1,6,N/A,"Peregrine Park ,  Sacramento ,  California",-121.525285,38.624052
+196,11-May-14,Tennessee,Memphis,2517 Shasta,0,7,N/A,"2517 Shasta ,  Memphis ,  Tennessee",-89.9732795,35.1687664
+197,10-May-14,Georgia,Stone Mountain,1100 To Lani Farm Road,1,3,N/A,"1100 To Lani Farm Road ,  Stone Mountain ,  Georgia",-84.2059074,33.7621815
+198,10-May-14,Georgia,Decatur,Shamrock Drive ,2,3,N/A,"Shamrock Drive  ,  Decatur ,  Georgia",-84.257328,33.730923
+199,10-May-14,California,Sacramento,Natomas,1,6,N/A,"Natomas ,  Sacramento ,  California",-121.5078821,38.6707575
+200,4-May-14,Illinois,Chicago,500 West Erie Street,1,3,N/A,"500 West Erie Street ,  Chicago ,  Illinois",-87.6414409,41.8938944
+201,4-May-14,Colorado,Wheat Ridge,12100 W 44th,0,4,N/A,"12100 W 44th ,  Wheat Ridge ,  Colorado",-105.134256,39.777486
+202,3-May-14,Arkansas,Jonesboro,2201 Moore Road; Dalton Farmer Drive; County Road 664,4,4,N/A,"2201 Moore Road; Dalton Farmer Drive; County Road 664 ,  Jonesboro ,  Arkansas",-90.615568,35.818343
+203,30-Apr-14,Illinois,Chicago,7200 South Phillips Avenue,0,4,N/A,"7200 South Phillips Avenue ,  Chicago ,  Illinois",-87.565767,41.764408
+204,29-Apr-14,Georgia,Kennesaw,1675 Airport Road,1,6,N/A,"1675 Airport Road ,  Kennesaw ,  Georgia",-84.601955,34.008769
+205,27-Apr-14,New York,Troy,Fourth Street,0,5,N/A,"Fourth Street ,  Troy ,  New York",-73.691315,42.720791
+206,25-Apr-14,Tennessee,Memphis,2000 Chelsea Avenue,2,3,N/A,"2000 Chelsea Avenue ,  Memphis ,  Tennessee",-89.9906671,35.1734373
+207,22-Apr-14,California,Los Angeles,6419 Brynhurst Avenue,1,3,N/A,"6419 Brynhurst Avenue ,  Los Angeles ,  California",-118.334278,33.981093
+208,20-Apr-14,Illinois,Montgomery,1300 block of Jackson St,0,6,N/A,"1300 block of Jackson St ,  Montgomery ,  Illinois",-88.310435,41.728852
+209,20-Apr-14,Florida,Tampa,2902 N. 32nd St.,2,2,N/A,"2902 N. 32nd St. ,  Tampa ,  Florida",-82.4248819,27.9704295
+210,20-Apr-14,Illinois,Chicago,6600 South Michigan Ave,0,5,N/A,"6600 South Michigan Ave ,  Chicago ,  Illinois",-87.6230991,41.774825
+211,14-Apr-14,District of Columbia,Washington,1500 block of 19th Street,0,4,N/A,"1500 block of 19th Street ,  Washington ,  District of Columbia",-77.0434366,38.9105162
+212,12-Apr-14,Louisiana,New Orleans,2100 block of Pauger Street,1,3,N/A,"2100 block of Pauger Street ,  New Orleans ,  Louisiana",-90.0607641,29.9715019
+213,11-Apr-14,Indiana,Richmond,North 15th and H Streets,0,4,N/A,"North 15th and H Streets ,  Richmond ,  Indiana",-84.881606,39.838645
+214,9-Apr-14,Tennessee,Lookout Valley,Kellys Ferry Road and Kellys Ferry Place,3,1,N/A,"Kellys Ferry Road and Kellys Ferry Place ,  Lookout Valley ,  Tennessee",-85.4072606,35.0283093
+215,9-Apr-14,Illinois,Rockford,300 North Sunset,0,4,N/A,"300 North Sunset ,  Rockford ,  Illinois",-89.1183927,42.2787689
+216,7-Apr-14,Louisiana,New Orleans,500 block of South Alexander Street,0,4,N/A,"500 block of South Alexander Street ,  New Orleans ,  Louisiana",-90.1071864,29.9732273
+217,6-Apr-14,Massachusetts,Springfield,90 Worthington St.,0,4,N/A,"90 Worthington St. ,  Springfield ,  Massachusetts",-72.5936484,42.1031315
+218,6-Apr-14,Oklahoma,Oklahoma City,Northwest 29th Street and Portland Avenue,0,4,N/A,"Northwest 29th Street and Portland Avenue ,  Oklahoma City ,  Oklahoma",-97.583367,35.4987478
+219,5-Apr-14,Illinois,Chicago,4300 W Wilcox Street,1,5,N/A,"4300 W Wilcox Street ,  Chicago ,  Illinois",-87.733109,41.879032
+220,5-Apr-14,Arizona,Phoenix,West Palm Lane near 54th Avenue,1,3,N/A,"West Palm Lane near 54th Avenue ,  Phoenix ,  Arizona",-112.197512,33.470394
+221,5-Apr-14,California,Fairfield,Orchid Street ,0,4,N/A,"Orchid Street  ,  Fairfield ,  California",-122.036953,38.278664
+222,2-Apr-14,Texas,Fort Hood,Motor Pool Road and Tank Destroyer Boulevard,4,16,N/A,"Motor Pool Road and Tank Destroyer Boulevard ,  Fort Hood ,  Texas",-97.7944469,31.1329784
+223,30-Mar-14,Mississippi,Starkville,N/A,0,5,N/A,"N/A ,  Starkville ,  Mississippi",-88.8183872,33.4503998
+224,30-Mar-14,North Carolina,Charlotte,4300 Sunset Road,0,5,N/A,"4300 Sunset Road ,  Charlotte ,  North Carolina",-80.8562731,35.3049935
+225,23-Mar-14,Texas,Arlington,2700 Majesty Drive,1,3,N/A,"2700 Majesty Drive ,  Arlington ,  Texas",-97.0607784,32.7546259
+226,23-Mar-14,California,San Francisco,Turk and Taylor,0,7,N/A,"Turk and Taylor ,  San Francisco ,  California",-122.410784,37.783214
+227,23-Mar-14,California,Long Beach,601 Long Beach Boulevard,1,3,N/A,"601 Long Beach Boulevard ,  Long Beach ,  California",-118.1897511,33.7743901
+228,21-Mar-14,South Carolina,North Charleston,7550 Dorchester Road,0,4,N/A,"7550 Dorchester Road ,  North Charleston ,  South Carolina",-80.0787343,32.9035946
+229,16-Mar-14,Texas,Beaumont,S 4th St,3,1,N/A,"S 4th St ,  Beaumont ,  Texas",-94.1155643,30.0588443
+230,16-Mar-14,Georgia,Waynesboro,4960 Highway 80 West ,0,4,N/A,"4960 Highway 80 West  ,  Waynesboro ,  Georgia",-81.8474274,33.209855
+231,14-Mar-14,New York,Brooklyn,S. Second and Roebling Sts,0,4,N/A,"S. Second and Roebling Sts ,  Brooklyn ,  New York",-73.9590615,40.7121669
+232,9-Mar-14,Ohio,Fremont,531 W State St,3,1,N/A,"531 W State St ,  Fremont ,  Ohio",-83.116532,41.348378
+233,9-Mar-14,Texas,Austin, 4900 block of West Race Avenue,0,6,N/A," 4900 block of West Race Avenue ,  Austin ,  Texas",-97.657181,30.3030493
+234,8-Mar-14,Illinois,Chicago,4900 West Race Ave,0,6,N/A,"4900 West Race Ave ,  Chicago ,  Illinois",-87.748309,41.890715
+235,8-Mar-14,California,Richmond,1600 block of First Street,1,3,N/A,"1600 block of First Street ,  Richmond ,  California",-122.368475,37.956275
+236,5-Mar-14,South Carolina,Pelzer,Law Street,3,2,N/A,"Law Street ,  Pelzer ,  South Carolina",-82.4528394,34.6393756
+237,1-Mar-14,Pennsylvania,Pittsburgh,Hamilton Avenue,1,4,N/A,"Hamilton Avenue ,  Pittsburgh ,  Pennsylvania",-79.9024885,40.4557517
+238,1-Mar-14,Michigan,Detroit,7800 Gratiot Av.,0,4,N/A,"7800 Gratiot Av. ,  Detroit ,  Michigan",-83.0147785,42.3779806
+239,25-Feb-14,Virginia,Glade Spring,Graceland Lane,5,1,N/A,"Graceland Lane ,  Glade Spring ,  Virginia",-81.7848237,36.7843339
+240,22-Feb-14,California,Wilmington,1200 block of W Papeete St,0,4,N/A,"1200 block of W Papeete St ,  Wilmington ,  California",-118.277873,33.786881
+241,20-Feb-14,California,Alturas,300 W 1st St,4,2,N/A,"300 W 1st St ,  Alturas ,  California",-120.5452488,41.4839452
+242,20-Feb-14,Indiana,Indianapolis,3400 block of South Parker,4,0,N/A,"3400 block of South Parker ,  Indianapolis ,  Indiana",-86.1139207,39.7170278
+243,16-Feb-14,Texas,Fort Worth, 115 NW 25th St.,1,4,N/A," 115 NW 25th St. ,  Fort Worth ,  Texas",-97.3499256,32.7897485
+244,16-Feb-14,Florida,Orange County,4500 block of Riviera Shores ,1,6,N/A,"4500 block of Riviera Shores  ,  Orange County ,  Florida",-81.2742782,28.5981122
+245,16-Feb-14,Florida,Jacksonville,1187 S. Edgewood Ave.,1,4,N/A,"1187 S. Edgewood Ave. ,  Jacksonville ,  Florida",-81.7134144,30.3084697
+246,16-Feb-14,Texas,Dallas,2600 block of South Harwood Street,1,7,N/A,"2600 block of South Harwood Street ,  Dallas ,  Texas",-96.7790179,32.76734
+247,16-Feb-14,Indiana,Fort Wayne,Lafayette Street and East Tillman Road,0,5,N/A,"Lafayette Street and East Tillman Road ,  Fort Wayne ,  Indiana",-85.1191388,41.0172956
+248,15-Feb-14,Nevada,Las Vegas,Sahara and Maryland ,0,5,N/A,"Sahara and Maryland  ,  Las Vegas ,  Nevada",-115.1369439,36.1441689
+249,12-Feb-14,Indiana,Gary,2220 block of Broadway,0,5,N/A,"2220 block of Broadway ,  Gary ,  Indiana",-87.3371429,41.5780964
+250,12-Feb-14,California,Oakland,37th and International ,1,3,N/A,"37th and International  ,  Oakland ,  California",-122.2208449,37.7752416
+251,12-Feb-14,California,Stockton,Constitution Park,1,3,N/A,"Constitution Park ,  Stockton ,  California",-121.2774788,37.9595498
+252,7-Feb-14,Florida,Miami,Northwest 41st Street and 9th Avenue ,0,5,N/A,"Northwest 41st Street and 9th Avenue  ,  Miami ,  Florida",-80.2629892,25.7806007
+253,6-Feb-14,Louisiana,New Orleans,4600 block of Downman Road,0,4,N/A,"4600 block of Downman Road ,  New Orleans ,  Louisiana",-90.0219584,30.016324
+254,5-Feb-14,Illinois,Chicago,6740 N Clark St,1,3,N/A,"6740 N Clark St ,  Chicago ,  Illinois",-87.6731401,42.0048278
+255,3-Feb-14,Indiana,Franklin,2100 block of Bridlewood Dr,3,2,N/A,"2100 block of Bridlewood Dr ,  Franklin ,  Indiana",-86.0449971,39.4997647
+256,27-Jan-14,North Carolina,Rocky Mount,821 Word Plaza,0,4,N/A,"821 Word Plaza ,  Rocky Mount ,  North Carolina",-77.8189529,35.9690182
+257,27-Jan-14,Washington,Seattle,2nd Avenue South and South Main Street,1,4,N/A,"2nd Avenue South and South Main Street ,  Seattle ,  Washington",-122.331575,47.6000368
+258,25-Jan-14,Illinois,Chicago,S. Union Av and W. 51st St,1,4,N/A,"S. Union Av and W. 51st St ,  Chicago ,  Illinois",-87.6429023,41.8016155
+259,25-Jan-14,Florida,Belle Glade,600 block of Covenant Drive,0,4,N/A,"600 block of Covenant Drive ,  Belle Glade ,  Florida",-80.6739228,26.6868481
+260,21-Jan-14,New Jersey,Newark,Springfield Avenue ,2,3,N/A,"Springfield Avenue  ,  Newark ,  New Jersey",-74.1914125,40.7340152
+261,20-Jan-14,Virginia,Manassas,8509 Rixlew Ln,0,4,N/A,"8509 Rixlew Ln ,  Manassas ,  Virginia",-77.5018772,38.7724416
+262,16-Jan-14,Utah,Spanish Fork,37 N. 630 West,5,0,N/A,"37 N. 630 West ,  Spanish Fork ,  Utah",-111.6653971,40.1103572
+263,16-Jan-14,Oklahoma,Ardmore,N/A,2,4,N/A,"N/A ,  Ardmore ,  Oklahoma",-97.1436254,34.1742611
+264,14-Jan-14,California,Los Angeles,West 86th Street,0,4,N/A,"West 86th Street ,  Los Angeles ,  California",-118.3987642,33.9592417
+265,13-Jan-14,Michigan,Detroit,800 block of Calvert St,0,4,N/A,"800 block of Calvert St ,  Detroit ,  Michigan",-83.092214,42.387199
+266,12-Jan-14,Louisiana,Tallulah,3600 block of Highway 80 W,0,6,N/A,"3600 block of Highway 80 W ,  Tallulah ,  Louisiana",-91.1867517,32.4085176
+267,12-Jan-14,Alabama,Huntsville,University Drive,0,5,N/A,"University Drive ,  Huntsville ,  Alabama",-86.6503899,34.7365623
+268,12-Jan-14,Illinois,Elgin,300 block of North Street,0,5,N/A,"300 block of North Street ,  Elgin ,  Illinois",-88.280218,42.040112
+269,3-Jan-14,New York,Queens,Farmers Boulevard and 133rd Avenue,1,3,N/A,"Farmers Boulevard and 133rd Avenue ,  Queens ,  New York",-73.762898,40.6775
+270,1-Jan-14,Virginia,Norfolk,Rockingham Street and Berkley Avenue Extended,2,2,N/A,"Rockingham Street and Berkley Avenue Extended ,  Norfolk ,  Virginia",-76.278935,36.830788
