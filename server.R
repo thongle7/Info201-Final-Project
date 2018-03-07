@@ -2,6 +2,7 @@ library(shiny)
 library(dplyr)
 library(ggplot2)
 library(ggmap)
+library(leaflet)
 
 # Read data
 data2013 <- read.csv(file = "newdata/2013ms.csv", stringsAsFactors = FALSE)
