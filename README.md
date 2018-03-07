@@ -26,13 +26,13 @@ Questions that our project will be answering are:
 
 ## Website
 
-http://www.shootingtracker.com/ 
+https://thongle.shinyapps.io/Mass-Shooting-in-United-States/
 
 ## Disclaimer
 The information and data provided is meant for our school project. We do not own any of the data that we are using. 
 
 ## Contributors
 - Saam Pashai
-- Sergio Navarro
 - Thong Le
+- Sergio Navarro
 - Chris Gerken
