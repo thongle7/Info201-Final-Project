@@ -1,10 +1,12 @@
+#run necessary packages for map
+
 library(shiny)
 library(dplyr)
 library(ggplot2)
 library(ggmap)
 library(leaflet)
 
-# Read data
+# Read in the data for each year
 data2013 <-
   read.csv(file = "newdata/2013ms.csv", stringsAsFactors = FALSE)
 data2014 <-
@@ -20,20 +22,28 @@ all_data <- rbind(data2013, data2014, data2015, data2016, data2017)
 
 my.server <- function(input, output) {
   ## Functions for incidents map
+  
+  # select_year allows us to quickly select the year in the output section
   select_year <- function(year) {
     data <- eval(parse(text = paste("data", year, sep = "")))
     return(data)
   }
+
+  # filter_dead allows us to quickly choose the data from the dead amount slider
   filter_dead <- function(data, input) {
     data <- filter(data, X..Killed >= input[1]) %>%
       filter(X..Killed <= input[2])
     return(data)
   }
+  
+  #filter_injured allows us to quickly choose the data from the injured amount slider
   filter_injured <- function(data, input) {
     data <- filter(data, X..Injured >= input[1]) %>%
       filter(X..Injured <= input[2])
     return(data)
   }
+  
+  # gets information for the map concerning the specified year. 
   map_year <- function(data) {
     data %>%
       leaflet() %>%
@@ -55,8 +65,12 @@ my.server <- function(input, output) {
         clusterOptions = markerClusterOptions()
       )
   }
+  
   ## incidents map
   output$map <- renderLeaflet({
+    
+    # if user selects all then the entire dataset is displayed. otherwise the specific year
+    # selected will have its data displayed
     if (input$year == "All") {
       data <- all_data
       data <- filter_dead(data, input$Dead)
@@ -71,13 +85,15 @@ my.server <- function(input, output) {
   })
   
   ################################
-  # Histogram
+  # Histogram for deaths and injured in each state
   output$histogram2 <- renderPlot({
+    # if else functions same way as map tab
     if (input$year3 == "All") {
       data <- all_data
       data <- filter_dead(data, input$Dead3)
       data <- filter_injured(data, input$Injured3)
       
+      # ggplot used to create histogram for each state and injury amounts
       ggplot(
         data,
         aes(x = State, y = X..Injured),
@@ -112,7 +128,7 @@ my.server <- function(input, output) {
       data <- filter_dead(data, input$Dead3)
       data <- filter_injured(data, input$Injured3)
       
-      
+      # ggplot used to create histogram for each state and death amounts
       ggplot(
         data,
         aes(x = State, y = X..Killed),
@@ -148,12 +164,16 @@ my.server <- function(input, output) {
     }
     
   })
+  
+  # histogram for frequency of mass shootings in each state
   output$histogram3 <- renderPlot({
+    # if else same as above tabs
     if (input$year4 == "All") {
       data <- all_data
       data <- filter_dead(data, input$Dead4)
       data <- filter_injured(data, input$Injured4)
       
+      #ggplot to display state vs frequency data.
       ggplot(data, aes(x = State))+ 
         geom_bar(aes(col=State)) +
         theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
